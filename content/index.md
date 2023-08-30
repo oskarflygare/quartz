@@ -4,11 +4,11 @@ title: Welcome to my notes
 
 Trying picture to the right.
 
-<img style="float: right;" src="/public/static/rucklab_portrait_2022_small.jpg" alt="Portrait">
+<img style="float: right;" src="/content/files/rucklab_portrait_2022_small.jpg" alt="Portrait">
 
 Picture using standard markdown.
 
-![](/public/static/rucklab_portrait_2022_small.jpg)
+![](/content/files/rucklab_portrait_2022_small.jpg)
 # Trying out a heading
 
 ## Does this trigger the TOC?
