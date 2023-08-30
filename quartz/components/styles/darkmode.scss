@@ -21,7 +21,7 @@
   }
 }
 
-:root[saved-theme="dark"] .toggle ~ label {
+:root[saved-theme="light"] .toggle ~ label {
   & > #dayIcon {
     opacity: 0;
   }
