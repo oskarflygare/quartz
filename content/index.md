@@ -2,8 +2,10 @@
 title: Welcome
 ---
 
-Hi, welcome to the online collection of my notes. You'll find notes on topics related to my research areas along with many other things that tickle my interest. Many notes are unpolished and raw, but sometimes I add [[Blog posts]] too.
+Hi, welcome to the online collection of my notes. You'll find notes on topics related to my research areas along with many other things that tickle my interest. Many notes are unpolished and raw, this is a work in progress and learning in public!
 
+- I sometimes write [[Blog posts]]
+- Peer-reviewed [[Publications]]
 # About me
 ## Work
 
