@@ -1,5 +1,5 @@
 ---
-title: Welcome
+title: Oskar Flygare
 ---
 
 Hi, welcome to the online collection of my notes. You'll find notes on topics related to my research areas along with many other things that tickle my interest. Many notes are unpolished and raw, this is a work in progress and learning in public!
