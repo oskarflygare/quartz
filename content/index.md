@@ -21,4 +21,4 @@ I play keyboard and saxophone in my band [Division 7](https://open.spotify.com/a
 
 You can reach out to me via email: oskarflygare `at` gmail.com 
 
-![](files/square-portrait.png)
+![](files/round-portrait.png)
