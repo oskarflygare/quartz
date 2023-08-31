@@ -1,13 +1,22 @@
 ---
-title: Welcome to my notes
+title: Welcome
 ---
 
-Picture using standard markdown.
+Hi, welcome to the online collection of my notes. You'll find notes on topics related to my research areas along with many other things that tickle my interest. Many notes are unpolished and raw, but sometimes I add [[Blog posts]] too.
+
+# About me
+## Work
+
+I'm a post-doc and licensed psychologist working in the [Bjureberg/Hellner](https://ki.se/cns/johan-bjureberg-och-clara-hellners-forskargrupp?ref=oskarflygare.com) and [Rücklab](https://rucklab.com/?ref=oskarflygare.com) research groups at Karolinska Institutet.
+
+My research aims to understand suicide and self-injury, the psychological mechanisms involved and how to treat those difficulties.
+
+Other research interests include the psychological treatment of obsessive-compulsive and related disorders, particularly internet-delivered cognitive behaviour therapy (ICBT).
+
+## Outside of work
+
+I play keyboard and saxophone in my band [Division 7](https://open.spotify.com/artist/3z6F8NIRs126ddMywopmfP?si=JqEHsYkXShGriY1kaCsEaw&ref=oskarflygare.com), DJ and give public presentations every now and then.
+
+You can reach out to me via email: oskarflygare `at` gmail.com 
 
 ![](files/square-portrait.png)
-
-# Trying out a heading
-
-## Does this trigger the TOC?
-
-Perhaps, yes. But always good to test. [[About]] is an obsidian link.
