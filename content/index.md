@@ -4,10 +4,11 @@ created: 2023-08-30
 updated: 2023-09-01
 ---
 
-Hi, welcome to the online collection of my notes. You'll find notes on topics related to my research areas along with many other things that tickle my interest. Many notes are unpolished and raw, this is a work in progress and learning in public!
+Hi, welcome to the online collection of my notes. You'll find notes on topics related to my research areas along with many other things that tickle my interest. This site is a place to share my work in public and connect to people like you.
 
 - I sometimes write [[Blog posts]]
 - Peer-reviewed [[Publications]]
+- Areas of interest are captured in [[Maps of Content]]
 # About me
 ## Work
 
