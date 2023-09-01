@@ -1,9 +1,7 @@
 ---
 created: 2022-09-07
-updated: 2023-08-31
+updated: 2023-09-01
 ---
-# Hudziak2004 - Genetic and Environmental Contributions to the Child Behavior ChecklistObsessive-Compulsive Scale, A Cross-cultural Twin Study
-
 * Type: #article
 * Year read: #read2022
 * Subject: [[OCD]] [[Genetics]]

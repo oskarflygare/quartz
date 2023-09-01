@@ -1,8 +1,7 @@
 ---
 created: 2022-09-07
-updated: 2023-08-31
+updated: 2023-09-01
 ---
-# The p Factor -One General Psychopathology Factor in the Structure of Psychiatric Disorders
 * Type: #article
 * Subject: [[p-factor]]
 * Bibtex: @caspi2014

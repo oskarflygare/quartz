@@ -3,10 +3,6 @@ aliases: []
 created: 2022-09-07
 updated: 2023-09-01
 ---
-
-# Overfitting
-Date created: 2022-07-19
-
 Overfitting is a consequence of being *too* sensitive to the data we have seen, thus not being able to draw conclusions about unseen data.
 
 > If we had copious data, drawn from a perfectly representative sample, completely mistake-free, and representing exactly what we're trying to evaluate, then using the most complex model available would indeed be the best approach. But if we try to perfectly fit our model to the data when any of these factors fails to hold, we risk **overfitting**.

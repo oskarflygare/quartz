@@ -1,9 +1,7 @@
 ---
 created: 2022-09-07
-updated: 2023-08-31
+updated: 2023-09-01
 ---
-# Epskamp2018 - Estimating psychological networks and their accuracy, A tutorial paper
-
 * Type: #article
 * Date read: 2022-08-30
 * Subject: [[network analysis]]

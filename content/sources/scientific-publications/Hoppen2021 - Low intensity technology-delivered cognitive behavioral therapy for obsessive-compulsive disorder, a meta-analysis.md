@@ -1,9 +1,7 @@
 ---
 created: 2022-09-07
-updated: 2023-08-31
+updated: 2023-09-01
 ---
-# Hoppen2021 - Low intensity technology-delivered cognitive behavioral therapy for obsessive-compulsive disorder, a meta-analysis
-
 * Type: #article
 * Year read: #read2022
 * Subject: [[OCD]] [[ICBT]]

@@ -1,9 +1,7 @@
 ---
 created: 2022-09-07
-updated: 2023-08-31
+updated: 2023-09-01
 ---
-# Blanken2019 - Introducing Network Intervention Analysis to Investigate Sequential, Symptom-Specific Treatment Effects, A Demonstration in Co-Occurring Insomnia and Depression
-
 * Type: #article
 * Year read: #read2021
 * Subject: [[Depression]] [[Insomnia]] [[CBT]] [[Network theory]]

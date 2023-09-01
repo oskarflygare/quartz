@@ -1,8 +1,7 @@
 ---
 created: 2022-09-07
-updated: 2023-08-31
+updated: 2023-09-01
 ---
-# Abramowitz2006 - Psychometric properties and construct validity of the Obsessive-Compulsive Inventory-Revised, Replication and extension with a clinical sample
 * Type: #article
 * Year read: #read2021
 * Subject: [[OCI-R]] [[OCD]] [[Psychometrics]]

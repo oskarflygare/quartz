@@ -2,10 +2,8 @@
 alias:
   - Premature death after self-harm
 created: 2023-05-24
-updated: 2023-08-31
+updated: 2023-09-01
 ---
-
-# Premature death after self-harm: a multicentre cohort study
 
 - Type : #article 
 - Date read: 2023-05-24

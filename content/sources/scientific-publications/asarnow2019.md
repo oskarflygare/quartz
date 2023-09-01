@@ -2,11 +2,8 @@
 alias:
   - Practitioner Review
 created: 2023-04-26
-updated: 2023-08-31
+updated: 2023-09-01
 ---
-
-# Practitioner Review: Treatment for suicidal and self-harming adolescents – advances in suicide prevention care
-
 - Type : #article 
 - Date read: 2023-04-26
 - Bibtex: @asarnow2019

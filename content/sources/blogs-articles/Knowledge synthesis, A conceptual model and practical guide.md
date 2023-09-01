@@ -1,14 +1,8 @@
 ---
 created: 2022-09-07
-updated: 2023-08-31
----
-# Knowledge synthesis, A conceptual model and practical guide
-
-* Type: #blog
-* Year read: #read2021
-* Subject: [[Personal Knowledge Management]]
-* Bibtex: Joel Chan
-* Bibliography: https://oasislab.pubpub.org/pub/54t0y9mk/release/2
+updated: 2023-09-01
+author: Joel Chan
+source: https://oasislab.pubpub.org/pub/54t0y9mk/release/2
 ---
 # Example citation
 

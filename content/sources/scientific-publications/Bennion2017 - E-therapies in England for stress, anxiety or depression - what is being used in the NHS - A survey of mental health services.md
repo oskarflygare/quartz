@@ -1,8 +1,8 @@
 ---
 created: 2022-09-07
-updated: 2023-08-31
+updated: 2023-09-01
 ---
-# E-therapies in England for stress, anxiety or depression - what is being used in the NHS? A survey of mental health services
+
 * Type: #article
 * Year read: #read2021
 * Subject: [[IAPT]] 

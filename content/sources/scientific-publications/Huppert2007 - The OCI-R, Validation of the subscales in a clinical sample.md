@@ -1,8 +1,7 @@
 ---
 created: 2022-09-07
-updated: 2023-08-31
+updated: 2023-09-01
 ---
-# Huppert2007 - The OCI-R, Validation of the subscales in a clinical sample
 * Type: #article
 * Year read: #read2021
 * Subject: [[OCD]] [[OCI-R]] [[Psychometrics]]

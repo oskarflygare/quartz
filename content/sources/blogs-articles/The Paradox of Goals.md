@@ -1,15 +1,9 @@
 ---
 created: 2023-01-26
-updated: 2023-08-31
+updated: 2023-09-01
+author: Anne-Laure Le Cunff
+source: https://nesslabs.com/the-paradox-of-goals
 ---
-# The Paradox of Goals
-
-## Metadata
-- Author: Anne-Laure Le Cunff
-- Full Title: The Paradox of Goals
-- Category: #articles
-- Date read: 2023-01-26
-- URL: https://nesslabs.com/the-paradox-of-goals
 # Key takeaways
 - [[Emphasize insight and gradual growth instead of ticking big goals off a checklist]]
 

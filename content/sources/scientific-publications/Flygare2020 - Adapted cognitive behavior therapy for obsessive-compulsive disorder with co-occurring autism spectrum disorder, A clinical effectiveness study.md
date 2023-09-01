@@ -1,9 +1,7 @@
 ---
 created: 2022-09-07
-updated: 2023-08-31
+updated: 2023-09-01
 ---
-# Flygare2020 - Adapted cognitive behavior therapy for obsessive-compulsive disorder with co-occurring autism spectrum disorder, A clinical effectiveness study
-
 * Type: #article
 * Year read: #read2022
 * Subject: [[_thesis defense MOC]] [[OCD]] [[ASD]] [[CBT]]

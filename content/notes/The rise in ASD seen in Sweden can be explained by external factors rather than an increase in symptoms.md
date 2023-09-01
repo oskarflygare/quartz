@@ -3,10 +3,6 @@ aliases: []
 created: 2022-12-05
 updated: 2023-09-01
 ---
-
-# The rise in ASD seen in Sweden can be explained by external factors rather than an increase in symptoms
-Date created: 2022-12-05
-
 ASD prevalence has increased 3.5-fold in Stockholm between 2001 and 2011 [@idring2015]. Why? 
 
 > The increase in ASD prevalence is likely contributed to by extrinsic factors such as increased awareness and diagnostics. [@idring2015]

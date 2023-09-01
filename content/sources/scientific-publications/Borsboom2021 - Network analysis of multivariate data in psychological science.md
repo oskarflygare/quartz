@@ -1,8 +1,7 @@
 ---
 created: 2022-09-07
-updated: 2023-08-31
+updated: 2023-09-01
 ---
-# Borsboom2021 - Network analysis of multivariate data in psychological science
 
 * Type: #article
 * Date read: 2022-08-22

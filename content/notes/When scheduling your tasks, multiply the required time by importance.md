@@ -3,10 +3,6 @@ aliases: []
 created: 2022-09-07
 updated: 2023-09-01
 ---
-
-# When scheduling your tasks, multiply the required time by importance
-Date created: 2022-07-18
-
 This is a good rule of thumb for task prioritization, work on the tasks with the highest density.
 
 You can also assign a task an *hourly rate* just as consultants do.

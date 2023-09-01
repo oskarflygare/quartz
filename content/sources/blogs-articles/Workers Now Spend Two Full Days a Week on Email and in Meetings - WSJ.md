@@ -1,15 +1,8 @@
 ---
 created: 2023-05-24
-updated: 2023-08-31
+updated: 2023-09-01
+source: https://www.wsj.com/articles/workers-say-its-harder-to-get-things-done-now-heres-why-2a5f1389
 ---
-# Workers Now Spend Two Full Days a Week on Email and in Meetings - WSJ
-
-## Metadata
-- Author: wsj.com
-- Full Title: Workers Now Spend Two Full Days a Week on Email and in Meetings - WSJ
-- Category: #articles
-- Date read: 2023-05-24
-- URL: https://www.wsj.com/articles/workers-say-its-harder-to-get-things-done-now-heres-why-2a5f1389
 # Key takeaways
 - [[Many commitments bring a fixed amount of overhead, so keep the number of commitments low]]
 	- Otherwise, you run the risk of entering an [[Overhead spiral]]

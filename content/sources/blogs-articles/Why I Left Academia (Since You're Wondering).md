@@ -1,15 +1,9 @@
 ---
 created: 2022-09-07
-updated: 2023-08-31
+updated: 2023-09-01
+author: William Deresiewicz
+source: https://quillette.com/2022/08/17/why-i-left-academia-since-youre-wondering/
 ---
-# Why I Left Academia (Since You're Wondering)
-
-## Metadata
-- Author: William Deresiewicz
-- Full Title: Why I Left Academia (Since You're Wondering)
-- Category: #articles
-- Date read: 2022-08-24
-- URL: https://quillette.com/2022/08/17/why-i-left-academia-since-youre-wondering/
 # Key takeaways
 - [[Academia in its worst form leads to turf wars with little real-world relevance]]
 

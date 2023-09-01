@@ -1,10 +1,8 @@
 ---
 created: 2022-09-07
-updated: 2023-08-31
+updated: 2023-09-01
+source: https://zettelkasten.de/introduction/
 ---
-# Introduction to the Zettelkasten method
-* Type: #blog
-* Year read: #read2021
 * Bibliography: https://zettelkasten.de/introduction/
 * Category: [[Personal Knowledge Management|PKM]]
 ---

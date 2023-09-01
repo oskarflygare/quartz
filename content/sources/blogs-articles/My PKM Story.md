@@ -1,17 +1,10 @@
 ---
 created: 2022-09-07
-updated: 2023-08-31
+updated: 2023-09-01
+author: Nick Milo
+source: https://medium.com/@nickmilo22/my-pkm-story-3763985b7a3e
 ---
-# My PKM Story
-* Type: #blog
-* Year read: #read2021
-* Subject: [[Personal Knowledge Management]]
-* Reference: https://medium.com/@nickmilo22/my-pkm-story-3763985b7a3e
----
-## Why and when I was reading this
-I am learning more about [[note-taking]] and [[Personal Knowledge Management]]
-
-### Key takeaways
+# Key takeaways
 * His use of links and maps of content enabled him to produce more of his own thoughts, rather than just collecting
 * He started of using [[Zettelkasten]] but has now created his own flavour of PKM
 

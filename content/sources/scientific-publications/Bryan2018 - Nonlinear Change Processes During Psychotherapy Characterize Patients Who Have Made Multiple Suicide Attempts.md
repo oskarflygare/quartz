@@ -1,9 +1,7 @@
 ---
 created: 2023-03-01
-updated: 2023-08-31
+updated: 2023-09-01
 ---
-# Bryan2018 - Nonlinear Change Processes During Psychotherapy Characterize Patients Who Have Made Multiple Suicide Attempts
-
 * Type: #article
 * Date read: 2023-03-01
 * Subject: [[Suicide]]

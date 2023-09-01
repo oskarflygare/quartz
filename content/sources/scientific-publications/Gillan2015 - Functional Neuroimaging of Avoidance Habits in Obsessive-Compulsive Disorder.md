@@ -1,8 +1,7 @@
 ---
 created: 2022-09-07
-updated: 2023-08-31
+updated: 2023-09-01
 ---
-# Functional Neuroimaging of Avoidance Habits in Obsessive-Compulsive Disorder
 * Type: #article
 * Year read: #read2017
 * Subject: [[OCD]] [[Habits]]

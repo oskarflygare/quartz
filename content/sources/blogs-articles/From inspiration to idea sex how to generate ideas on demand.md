@@ -1,15 +1,9 @@
 ---
 created: 2022-09-12
-updated: 2023-08-31
+updated: 2023-09-01
+author: Anne-Laure Le Cunff
+source: https://nesslabs.com/inspiration-to-idea-sex
 ---
-# From inspiration to idea sex: how to generate ideas on demand
-
-## Metadata
-- Author: Anne-Laure Le Cunff
-- Full Title: From inspiration to idea sex: how to generate ideas on demand
-- Category: #articles
-- Date read: 2022-09-12
-- URL: https://nesslabs.com/inspiration-to-idea-sex
 # Key takeaways
 - [[If you view your PKM as a garden, you realize maintenance is important]]
 

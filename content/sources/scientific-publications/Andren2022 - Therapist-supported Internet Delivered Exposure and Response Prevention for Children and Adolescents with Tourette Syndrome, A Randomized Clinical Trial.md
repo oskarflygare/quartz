@@ -1,9 +1,7 @@
 ---
 created: 2022-09-07
-updated: 2023-08-31
+updated: 2023-09-01
 ---
-# Andren2022 - Therapist-supported Internet Delivered Exposure and Response Prevention for Children and Adolescents with Tourette Syndrome, A Randomized Clinical Trial
-
 * Type: #article
 * Date read: 2022-08-23
 * Subject: Tic disorder

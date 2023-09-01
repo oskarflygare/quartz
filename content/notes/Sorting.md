@@ -3,10 +3,6 @@ aliases: []
 created: 2022-09-07
 updated: 2023-09-01
 ---
-
-# Sorting
-Date created: 2021-11-05
-
 Sorting suffers from scale, because if you double the amount of things to sort you also double the number of places each item can go, so it becomes more complex rather than being more efficient.
 
 [[Big O notation]] indicates the worst-case scenario for algorithms.

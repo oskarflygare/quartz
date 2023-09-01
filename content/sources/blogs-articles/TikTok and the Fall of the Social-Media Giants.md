@@ -1,15 +1,9 @@
 ---
 created: 2022-09-07
-updated: 2023-08-31
+updated: 2023-09-01
+author: Cal Newport
+source: https://www.newyorker.com/culture/cultural-comment/tiktok-and-the-fall-of-the-social-media-giants
 ---
-# TikTok and the Fall of the Social-Media Giants
-
-## Metadata
-- Author: Cal Newport
-- Full Title: TikTok and the Fall of the Social-Media Giants
-- Category: #articles
-- Date read: 2022-08-28
-- URL: https://www.newyorker.com/culture/cultural-comment/tiktok-and-the-fall-of-the-social-media-giants
 # Key takeaways
 - [[When social media giants like Facebook and Twitter prioritize algorithmic feeds for distraction, they compete with all other forms of distraction]]
 

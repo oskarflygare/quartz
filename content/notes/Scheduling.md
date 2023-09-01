@@ -3,11 +3,6 @@ aliases: []
 created: 2022-09-07
 updated: 2023-09-01
 ---
-
-# Scheduling
-Date created: 2022-07-18
-
-
 ## Chapter notes
 
 - [[When scheduling your tasks, multiply the required time by importance]]

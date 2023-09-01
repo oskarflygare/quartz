@@ -1,8 +1,7 @@
 ---
 created: 2022-09-07
-updated: 2023-08-31
+updated: 2023-09-01
 ---
-# Abramowitz2014 - The relevance of analogue studies for understanding obsessions and compulsions
 * Type: #article
 * Year read: #read2021
 * Subject: [[OCD]]

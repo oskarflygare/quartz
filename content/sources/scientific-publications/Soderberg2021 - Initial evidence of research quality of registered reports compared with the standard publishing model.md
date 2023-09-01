@@ -2,7 +2,6 @@
 created: 2022-09-07
 updated: 2023-09-01
 ---
-# Initial evidence of research quality of registered reports compared with the standard publishing model
 * Type: #article
 * Year read: #read2021
 * Subject: [[Open Science]]

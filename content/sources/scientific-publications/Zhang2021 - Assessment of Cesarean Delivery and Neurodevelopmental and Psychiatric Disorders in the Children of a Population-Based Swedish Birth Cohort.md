@@ -1,9 +1,7 @@
 ---
 created: 2022-09-07
-updated: 2023-08-31
+updated: 2023-09-01
 ---
-# Zhang2021 - Assessment of Cesarean Delivery and Neurodevelopmental and Psychiatric Disorders in the Children of a Population-Based Swedish Birth Cohort
-
 * Type: #article
 * Year read: #read2022
 * Subject: [[OCD]] [[ASD]]

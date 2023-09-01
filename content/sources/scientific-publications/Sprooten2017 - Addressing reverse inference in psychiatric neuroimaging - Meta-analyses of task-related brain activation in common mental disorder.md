@@ -1,8 +1,7 @@
 ---
 created: 2022-09-07
-updated: 2023-08-31
+updated: 2023-09-01
 ---
-# Addressing reverse inference in psychiatric neuroimaging - Meta-analyses of task-related brain activation in common mental disorder
 * Type:  #article
 * Author: E. Sprooten
 * Year read: #read2021

@@ -1,8 +1,7 @@
 ---
 created: 2022-09-07
-updated: 2023-08-31
+updated: 2023-09-01
 ---
-# Richards2018 - Digital IAPT the effectiveness & cost-effectiveness of internet-delivered interventions for depression and anxiety disorders in the Improving Access to Psychological Therapies Programme - study protocol for a randomised control trial
 * Type:  #article
 * Year read: #read2021
 * Subject: [[IAPT]] [[ICBT]]

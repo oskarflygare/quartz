@@ -4,8 +4,6 @@ created: 2022-09-07
 updated: 2023-09-01
 ---
 
-# The viral dynamics of social media platforms nudges us to produce and consume junk info
-Date created: 2022-08-31
 
 Because material that triggers outrage and other strong reactions is more viral than calm and complex material, social media dynamics tends to push us toward the former.
 

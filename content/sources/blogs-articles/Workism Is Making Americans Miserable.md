@@ -1,16 +1,9 @@
 ---
 created: 2022-09-07
-updated: 2023-08-31
+updated: 2023-09-01
+author: Derek Thompson
+source: https://www.theatlantic.com/ideas/archive/2019/02/religion-workism-making-americans-miserable/583441/
 ---
-# Workism Is Making Americans Miserable
-
-## Metadata
-- Author: Derek Thompson
-- Full Title: Workism Is Making Americans Miserable
-- Category: #articles
-- Date read: 2022-07-07
-- URL: https://www.theatlantic.com/ideas/archive/2019/02/religion-workism-making-americans-miserable/583441/
-
 ## Highlights
 - In his 1930 essay “Economic Possibilities for Our Grandchildren,” the economist John Maynard Keynes predicted a 15-hour workweek in the 21st century, creating the equivalent of a five-day weekend. “For the first time since his creation man will be faced with his real, his permanent problem,” Keynes wrote, “how to occupy the leisure.”
 - [[Work has been infused with beliefs about self-actualization]]

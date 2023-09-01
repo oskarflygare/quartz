@@ -2,11 +2,8 @@
 alias:
   - Suicidality and mood
 created: 2023-06-08
-updated: 2023-08-31
+updated: 2023-09-01
 ---
-
-# Suicidality and mood: the impact of trends, seasons, day of the week, and time of day on explicit and implicit cognitions among an online community sample
-
 - Type : #article 
 - Date read: 2023-06-08
 - Bibtex: @freichel2023

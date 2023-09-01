@@ -1,11 +1,9 @@
 ---
 alias:
-  - Rapid intensification of suicide risk preceding suicidal behavior among
-    primary care patients
+  - Rapid intensification of suicide risk preceding suicidal behavior among primary care patients
 created: 2023-04-04
-updated: 2023-08-31
+updated: 2023-09-01
 ---
-
 # Rapid intensification of suicide risk preceding suicidal behavior among primary care patients
 
 - Type : #article 

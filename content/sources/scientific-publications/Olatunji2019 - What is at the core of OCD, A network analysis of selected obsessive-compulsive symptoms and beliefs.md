@@ -1,9 +1,7 @@
 ---
 created: 2022-09-07
-updated: 2023-08-31
+updated: 2023-09-01
 ---
-# Olatunji2019 - What is at the core of OCD, A network analysis of selected obsessive-compulsive symptoms and beliefs
-
 * Type: #article
 * Year read: #read2021
 * Subject: [[OCD]] [[Network theory]]

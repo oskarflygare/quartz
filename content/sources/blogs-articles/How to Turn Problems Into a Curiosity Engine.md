@@ -7,8 +7,6 @@ draft: false
 created: 2023-09-01
 updated: 2023-09-01
 ---
-- Full Title: How to Turn Problems Into a Curiosity Engine
-- Category: #articles
 # Key takeaways
 - [[Unsolved problems and questions can be viewed as sources of curiosity]]
 

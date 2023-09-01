@@ -3,10 +3,6 @@ aliases: []
 created: 2023-03-28
 updated: 2023-09-01
 ---
-
-# Losing a parent to suicide is a strong risk factor for suicidal behavior in children
-Date created: 2023-03-28
-
 RR = 2.97
 
 This means that we'll have to consider outreach and prevention programmes for this particular high-risk group. Not just dealing with the aftermath of the suicide itself but also reaching out to first-degree relatives.

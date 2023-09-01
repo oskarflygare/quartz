@@ -2,11 +2,11 @@
 aliases: []
 created: 2022-09-07
 updated: 2023-09-01
+author: Cal Newport
+tags:
+  - video
+source: https://youtu.be/dOQpZlZuySE?si=zROSX6LkS-6L2Y7R
 ---
-
-# Time management
-Date created: 2022-05-19
-
 Whatever rules, systems, principles you use to figure out what to do with your time at work.
 
 # Three key properties: capture, configure, control

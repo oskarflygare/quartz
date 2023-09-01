@@ -1,8 +1,7 @@
 ---
 created: 2022-09-07
-updated: 2023-08-31
+updated: 2023-09-01
 ---
-# Testing the Mediating Effects of Obsessive Beliefs in Internet-Based Cognitive Behaviour Therapy for Obsessive-Compulsive Disorder: Results from a Randomized Controlled Trial
 * Type: #article
 * Year read: #read2019
 * Bibtex: @andersson2015

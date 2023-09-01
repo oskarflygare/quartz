@@ -1,15 +1,9 @@
 ---
 created: 2022-09-15
-updated: 2023-08-31
+updated: 2023-09-01
+author: Paul Graham
+source: http://paulgraham.com/words.html
 ---
-# Putting Ideas into Words
-
-## Metadata
-- Author: Paul Graham
-- Full Title: Putting Ideas into Words
-- Category: #articles
-- Date read: 2022-09-15
-- URL: http://paulgraham.com/words.html
 # Key takeaways
 - [[When you write about a subject you see your own gaps in knowledge]]
 

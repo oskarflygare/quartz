@@ -1,12 +1,10 @@
 ---
 aliases: []
 created: 2023-07-24
-updated: 2023-08-31
+updated: 2023-09-01
+author: Julian Shapiro
+source: https://www.julian.com/guide/write/intro
 ---
-
-# Julian Shapiro guidebook on non-fiction writing
-Date created: 2023-07-24
-
 Non-fiction writing will give you *leverage*, *clarity of thought*, and *human connection*. 
 
 Which things to write about? Here are some approaches to presenting your ideas in a first draft. Focus on:

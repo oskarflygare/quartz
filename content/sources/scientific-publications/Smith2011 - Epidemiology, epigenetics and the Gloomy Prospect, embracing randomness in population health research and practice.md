@@ -1,9 +1,7 @@
 ---
 created: 2022-12-08
-updated: 2023-08-31
+updated: 2023-09-01
 ---
-# Smith2011 - Epidemiology, epigenetics and the Gloomy Prospect, embracing randomness in population health research and practice
-
 * Type: #article
 * Date read: 2022-12-08
 * Subject: (in brackets, can also bracket keywords in text)

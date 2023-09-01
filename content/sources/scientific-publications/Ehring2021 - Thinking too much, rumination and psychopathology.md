@@ -1,8 +1,7 @@
 ---
 created: 2022-09-07
-updated: 2023-08-31
+updated: 2023-09-01
 ---
-# Thinking too much, rumination and psychopathology
 * Type: #article
 * Year read: #read2021
 * Subject: [[Rumination]]

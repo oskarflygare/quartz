@@ -1,9 +1,7 @@
 ---
 created: 2023-02-15
-updated: 2023-08-31
+updated: 2023-09-01
 ---
-# Kleiman2018 - Digital Phenotyping of Suicidal Thoughts
-
 * Type: #article
 * Date read: 2023-02-15
 * Subject: [[Suicide]] [[ecological momentary assessment]]

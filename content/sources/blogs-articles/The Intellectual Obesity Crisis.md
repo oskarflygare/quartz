@@ -1,15 +1,9 @@
 ---
 created: 2022-09-07
-updated: 2023-08-31
+updated: 2023-09-01
+author: Gurwinder
+source: https://gurwinder.substack.com/p/the-intellectual-obesity-crisis?s=r
 ---
-# The Intellectual Obesity Crisis
-
-## Metadata
-- Author: Gurwinder
-- Full Title: The Intellectual Obesity Crisis
-- Category: #articles
-- Date read: 2022-08-17
-- URL: https://gurwinder.substack.com/p/the-intellectual-obesity-crisis?s=r
 # Key takeaways
 - [[The viral dynamics of social media platforms nudges us to produce and consume junk info]]
 

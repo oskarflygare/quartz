@@ -2,10 +2,8 @@
 alias:
   - Targeting Perceived Burdensomeness to Reduce Suicide Risk
 created: 2023-07-05
-updated: 2023-08-31
+updated: 2023-09-01
 ---
-
-# Targeting Perceived Burdensomeness to Reduce Suicide Risk
 
 - Type : #article 
 - Date read: 2023-07-05

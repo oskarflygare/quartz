@@ -3,10 +3,6 @@ aliases: []
 created: 2022-09-07
 updated: 2023-09-01
 ---
-
-# Laplace's law
-Date created: 2022-07-19
-
 It's a Bayesian method for estimating probability based on observations. Let *w* be the number of outcomes, and *n* be the number of attempts.
 
 $\frac{w+1}{n+2}$

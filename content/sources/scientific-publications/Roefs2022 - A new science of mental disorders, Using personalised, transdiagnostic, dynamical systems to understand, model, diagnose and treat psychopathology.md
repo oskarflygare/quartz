@@ -1,9 +1,7 @@
 ---
 created: 2022-09-07
-updated: 2023-08-31
+updated: 2023-09-01
 ---
-# Roefs2022 - A new science of mental disorders, Using personalised, transdiagnostic, dynamical systems to understand, model, diagnose and treat psychopathology
-
 * Type: #article
 * Year read: #read2022
 * Subject: (in brackets, can also bracket keywords in text)

@@ -1,15 +1,9 @@
 ---
 created: 2022-12-16
-updated: 2023-08-31
+updated: 2023-09-01
+author: Gurwinder
+source: https://gurwinder.substack.com/p/40-useful-concepts-you-should-know?utm_source=post-email-title&publication_id=589242&post_id=87140672&isFreemail=true&utm_medium=email
 ---
-# 40 Useful Concepts You Should Know
-
-## Metadata
-- Author: Gurwinder
-- Full Title: 40 Useful Concepts You Should Know
-- Category: #articles
-- Date read: 2022-12-16
-- URL: https://gurwinder.substack.com/p/40-useful-concepts-you-should-know?utm_source=post-email-title&publication_id=589242&post_id=87140672&isFreemail=true&utm_medium=email
 # Key takeaways
 - [[Shibboleth]]
 

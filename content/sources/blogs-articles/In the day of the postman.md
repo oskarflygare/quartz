@@ -1,14 +1,8 @@
 ---
 created: 2022-09-07
-updated: 2023-08-31
----
-# In the day of the postman
-
-* Type: #essay
-* Year read: #read2021
-* Subject: (in brackets, can also bracket keywords in text)
-* Author: Rebecca Solnit
-* Bibliography: https://www.lrb.co.uk/the-paper/v35/n16/rebecca-solnit/diary
+updated: 2023-09-01
+author: Rebecca Solnit
+source: https://www.lrb.co.uk/the-paper/v35/n16/rebecca-solnit/diary
 ---
 # Key takeaways
 * There is a rhythm to the day pre-internet: mail is delivered at a certain time, you read the newspaper once per day, etc. That rhythm is now lost.

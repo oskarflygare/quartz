@@ -1,9 +1,7 @@
 ---
 created: 2022-09-07
-updated: 2023-08-31
+updated: 2023-09-01
 ---
-# Lancee2022 - Network Intervention Analyses of cognitive therapy and behavior therapy for insomnia, Symptom specific effects and process measures
-
 * Type: #article
 * Year read: #read2022
 * Subject: [[Insomnia]] [[Network theory]]

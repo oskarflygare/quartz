@@ -5,8 +5,6 @@ tags:
   - writing/blog
 draft: 
 ---
-# Core activities
-
 There are certain activities at work that tend to appear over and over again, no matter the specifics of the project you are currently working on. In my academic context, these are writing, statistics and reading peer-reviewed papers published in my field. Others include general knowledge work activities like meetings and email, but these three are more closely connected to producing the manuscripts, analyses and grant proposals that generate value in an academic career. This is why I think investing time and effort to develop competence in these core activities and cultivating an appreciation for the processes involved is one of the most valuable ways to spend my time at this stage of my career.
 
 Competence and appreciation reinforce each other; activities you are skilled at are more enjoyable, and activities that intrigue you will motivate you to become better. I don't see myself as particularly skilled in doing either of the academic core activities yet, but I find the processes involved interesting enough to keep trying and developing my skills.

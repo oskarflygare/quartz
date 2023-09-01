@@ -1,8 +1,7 @@
 ---
 created: 2022-09-07
-updated: 2023-08-31
+updated: 2023-09-01
 ---
-# All for One and One for All - Mental Disorders in One Dimension
 * Type: #article
 * Subject: [[p-factor]]
 * Bibtex: @caspi2018

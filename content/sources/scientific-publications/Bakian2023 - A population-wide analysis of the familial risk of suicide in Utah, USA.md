@@ -1,9 +1,7 @@
 ---
 created: 2023-03-28
-updated: 2023-08-31
+updated: 2023-09-01
 ---
-# Bakian2023 - A population-wide analysis of the familial risk of suicide in Utah, USA
-
 * Type: #article
 * Date read: 2023-03-28
 * Subject: [[Suicide]]

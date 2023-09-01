@@ -1,8 +1,7 @@
 ---
 created: 2022-09-07
-updated: 2023-08-31
+updated: 2023-09-01
 ---
-# Preliminary Randomized Trial of Function-Based Cognitive-Behavioral Therapy to Treat Obsessive Compulsive Behavior in Children With Autism Spectrum Disorder
 * Type: #blog or #article
 * Subject: [[CBT]] [[OCD]] [[ASD]]
 * Bibtex: @vause2015

@@ -1,9 +1,7 @@
 ---
 created: 2022-09-07
-updated: 2023-08-31
+updated: 2023-09-01
 ---
-# Brander2016 - Association of Perinatal Risk Factors With Obsessive-Compulsive Disorder, A Population-Based Birth Cohort, Sibling Control Study
-
 * Type: #article
 * Year read: #read2022
 * Subject: [[OCD]]

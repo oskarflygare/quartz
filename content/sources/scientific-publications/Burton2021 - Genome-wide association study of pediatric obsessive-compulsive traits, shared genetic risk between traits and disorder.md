@@ -1,8 +1,7 @@
 ---
 created: 2022-09-07
-updated: 2023-08-31
+updated: 2023-09-01
 ---
-# Burton2021 - Genome-wide association study of pediatric obsessive-compulsive traits, shared genetic risk between traits and disorder
 
 * Type: #article
 * Year read: #read2022

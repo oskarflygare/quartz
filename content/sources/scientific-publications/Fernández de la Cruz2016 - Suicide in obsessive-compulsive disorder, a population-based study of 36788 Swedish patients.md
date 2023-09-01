@@ -1,9 +1,7 @@
 ---
 created: 2022-09-07
-updated: 2023-08-31
+updated: 2023-09-01
 ---
-# Fernández de la Cruz2016 - Suicide in obsessive-compulsive disorder, a population-based study of 36788 Swedish patients
-
 * Type: #article
 * Year read: #read2022
 * Subject: [[OCD]]

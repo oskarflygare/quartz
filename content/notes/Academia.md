@@ -3,12 +3,6 @@ aliases: []
 created: 2022-11-04
 updated: 2023-09-01
 ---
-
-#MOC 
-
-# Academia
-Date created: 2022-11-04
-
 ## Research output
 
 ### Mindset and approach

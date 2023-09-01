@@ -1,9 +1,7 @@
 ---
 created: 2022-09-07
-updated: 2023-08-31
+updated: 2023-09-01
 ---
-# Radomsky2022 - Responsibility, probability, and severity of harm, An experimental investigation of cognitive factors associated with checking-related OCD
-
 * Type: #article
 * Year read: #read2022
 * Subject: [[OCD]]

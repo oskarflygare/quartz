@@ -3,10 +3,6 @@ aliases: []
 created: 2022-09-07
 updated: 2023-09-01
 ---
-
-# Realism
-Date created: 2021-08-16
-
 ## Realism in science
 Assumes that the content of science is real in a way that is independent of human conceptions and activities.
 

@@ -1,13 +1,9 @@
 ---
 alias:
-  - The effects of psychotherapy for adult depression on suicidality and
-    hopelessness
+  - The effects of psychotherapy for adult depression on suicidality and hopelessness
 created: 2023-05-16
-updated: 2023-08-31
+updated: 2023-09-01
 ---
-
-# The effects of psychotherapy for adult depression on suicidality and hopelessness: A systematic review and meta-analysis
-
 - Type : #article 
 - Date read: 2023-05-16
 - Bibtex: @cuijpers2013a

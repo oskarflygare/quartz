@@ -2,11 +2,8 @@
 alias:
   - Healthcare and social services resource use and costs of self-harm patients
 created: 2023-07-17
-updated: 2023-08-31
+updated: 2023-09-01
 ---
-
-# Healthcare and social services resource use and costs of self-harm patients
-
 - Type : #article 
 - Date read: 2023-07-17
 - Bibtex: @sinclair2011

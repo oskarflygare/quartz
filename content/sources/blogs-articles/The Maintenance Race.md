@@ -1,15 +1,9 @@
 ---
 created: 2022-12-06
-updated: 2023-08-31
+updated: 2023-09-01
+author: Stewart Brand
+source: https://www.worksinprogress.co/issue/the-maintenance-race/
 ---
-# The Maintenance Race
-
-## Metadata
-- Author: Stewart Brand
-- Full Title: The Maintenance Race
-- Category: #articles
-- Date read: 2022-12-06
-- URL: https://www.worksinprogress.co/issue/the-maintenance-race/
 # Key takeaways
 - [[Complicated systems have high maintenance costs]]
 

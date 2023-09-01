@@ -1,15 +1,10 @@
 ---
 created: 2022-09-07
-updated: 2023-08-31
+updated: 2023-09-01
+author: Jason Collins
+source: https://www.worksinprogress.co/issue/biases-the-wrong-model/
 ---
-# We don’t have a hundred biases, we have the wrong model
 
-## Metadata
-- Author: Words Jason Collins
-- Full Title: We don’t have a hundred biases, we have the wrong model
-- Category: #articles
-- Date read: 2022-08-30
-- URL: https://www.worksinprogress.co/issue/biases-the-wrong-model/
 # Key takeaways
 - [[Behavioral economics needs a new model rather than more biases compared to a rational actor]]
 - [[A new model for decision making needs to focus less on bias, be realistic, be environment specific, and multidisciplinary]]

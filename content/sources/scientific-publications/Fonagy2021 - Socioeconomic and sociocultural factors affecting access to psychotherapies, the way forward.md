@@ -1,9 +1,7 @@
 ---
 created: 2022-09-07
-updated: 2023-08-31
+updated: 2023-09-01
 ---
-# Fonagy2021 - Socioeconomic and sociocultural factors affecting access to psychotherapies, the way forward
-
 * Type: #article
 * Year read: #read2022
 * Subject:  [[ICBT]]

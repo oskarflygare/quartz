@@ -1,9 +1,7 @@
 ---
 created: 2022-09-07
-updated: 2023-08-31
+updated: 2023-09-01
 ---
-# Otto2022 - Stage models for major depression, Cognitive behavior therapy, mechaninstic treatment targets and the prevention of stage transition
-
 * Type: #article
 * Date read: 2022-07-07
 * Subject: [[Depression]]

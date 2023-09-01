@@ -1,9 +1,7 @@
 ---
 created: 2023-03-02
-updated: 2023-08-31
+updated: 2023-09-01
 ---
-# Turecki2016 - Suicide and suicidal behaviour
-
 * Type: #article
 * Date read: 2023-03-02
 * Subject: [[Suicide]]

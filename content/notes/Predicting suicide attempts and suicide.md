@@ -5,7 +5,6 @@ updated: 2023-09-01
 tags:
   - MOC
 ---
-
 Predicting suicide attempts and [[Suicide]] is very difficult since they are relatively rare events. The majority of individuals with suicidal ideation will not make an attempt and the majority of individuals who make attempts will not die by suicide.
 
 # Approaches

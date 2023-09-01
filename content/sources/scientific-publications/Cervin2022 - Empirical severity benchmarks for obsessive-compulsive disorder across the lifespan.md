@@ -1,9 +1,7 @@
 ---
 created: 2022-09-07
-updated: 2023-08-31
+updated: 2023-09-01
 ---
-# Cervin2022 - Empirical severity benchmarks for obsessive-compulsive disorder across the lifespan
-
 * Type: #article
 * Year read: #read2022
 * Subject: [[OCD]] [[Y-BOCS]] [[Psychometrics]]

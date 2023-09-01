@@ -1,9 +1,7 @@
 ---
 created: 2022-09-07
-updated: 2023-08-31
+updated: 2023-09-01
 ---
-# Wilhelm2019 - Cognitive-Behavioral Therapy in the Digital Age, Presidential Address
-
 * Type: #article
 * Year read: #read2022
 * Subject: [[CBT]] [[ICBT]] 

@@ -1,20 +1,10 @@
 ---
 created: 2022-09-07
-updated: 2023-08-31
+updated: 2023-09-01
+source: https://www.wired.com/story/to-do-apps-failed-productivity-tools/
 ---
-# Of the hundreds of methods out there to help us get things done... why dont they, you know, work
-
-* Type: #blog
-* Year read: #read2022
-* Subject: [[Productivity]]
-* Bibliography: https://www.wired.com/story/to-do-apps-failed-productivity-tools/
----
-# Example citation
-
-[[When procrastination is the root cause, no to-do app will get things done for you.]]
-
-
 # Key takeaways
+- [[When procrastination is the root cause, no to-do app will get things done for you.]]
 * Most users of an early to-do app completed their tasks within a day of writing them down. So why even bother writing them down?
 * Most office tasks have well-defined software options (word/google docs for writing a doucment), but not to-dos.
 * Not even the most bespoke to-do app will help if procrastination is the root cause

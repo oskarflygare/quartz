@@ -1,15 +1,9 @@
 ---
 created: 2023-06-19
-updated: 2023-08-31
+updated: 2023-09-01
+author: Dana Schuster
+source: https://nypost.com/2016/02/28/dying-for-fame-21-reality-stars-commit-suicide-in-past-decade/
 ---
-# Dying for Fame: 21 Reality Stars Committed Suicide in a Decade
-
-## Metadata
-- Author: Dana Schuster
-- Full Title: Dying for Fame: 21 Reality Stars Committed Suicide in a Decade
-- Category: #articles
-- Date read: 2023-06-19
-- URL: https://nypost.com/2016/02/28/dying-for-fame-21-reality-stars-commit-suicide-in-past-decade/
 # Key takeaways
 - 
 

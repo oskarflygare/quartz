@@ -2,15 +2,10 @@
 aliases:
   - autism spectrum disorder
 created: 2022-09-07
-updated: 2023-08-31
+updated: 2023-09-01
+tags:
+  - MOC
 ---
-
-#MOC 
-
-# ASD
-Date created: 2022-05-19
-
-
 # Epidemiology
 
 ## Prevalence

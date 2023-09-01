@@ -1,15 +1,9 @@
 ---
 created: 2022-09-07
-updated: 2023-08-31
+updated: 2023-09-01
+author: Ezra Klein
+source: https://www.nytimes.com/2022/08/07/opinion/media-message-twitter-instagram.html
 ---
-# I Didn’t Want It to Be True, but the Medium Really Is the Message
-
-## Metadata
-- Author: Ezra Klein
-- Full Title: I Didn’t Want It to Be True, but the Medium Really Is the Message
-- Category: #articles
-- Date read: 2022-08-17
-- URL: https://www.nytimes.com/2022/08/07/opinion/media-message-twitter-instagram.html
 # Key takeaways
 - [[The medium you use to consume information directs the way you view the world]]
 

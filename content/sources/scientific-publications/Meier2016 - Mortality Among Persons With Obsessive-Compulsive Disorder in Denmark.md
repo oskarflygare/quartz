@@ -1,9 +1,7 @@
 ---
 created: 2022-09-07
-updated: 2023-08-31
+updated: 2023-09-01
 ---
-# Meier2016 - Mortality Among Persons With Obsessive-Compulsive Disorder in Denmark
-
 * Type: #article
 * Year read: #read2022
 * Subject: [[OCD]]

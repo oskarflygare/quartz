@@ -1,8 +1,7 @@
 ---
 created: 2022-11-25
-updated: 2023-08-31
+updated: 2023-09-01
 ---
-# Robinaugh2021 - Invisible Hands and Fine Calipers, A Call to Use Formal Theory as a Toolkit for Theory Construction
 
 * Type: #article
 * Date read: 2022-11-25

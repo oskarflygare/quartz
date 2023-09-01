@@ -7,7 +7,6 @@ updated: 2023-09-01
 tags:
   - MOC
 ---
-# Personal knowledge management
 Personal knowledge management is the intersection between _personal information management_ (e.g., how you remind yourself to complete tasks) and _knowledge management_ (free flow of information within an organisation). It's about collecting, understanding, and connecting new information with an emphasis on the latter two.
 
 There are few formal PKM systems (but see [[Zettelkasten]]) and most people make their own flavour. Mindmaps, notebooks, journaling techniques etc are all forms of PKM.

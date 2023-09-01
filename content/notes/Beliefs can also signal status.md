@@ -3,10 +3,6 @@ aliases: []
 created: 2022-09-07
 updated: 2023-09-01
 ---
-
-# Beliefs can also signal status
-Date created: 2022-07-06
-
 Status symbols are not restricted to items or behavior, but can also incorporate beliefs.
 
 For example, support for "defund the police" varied greatly by income level. Low-income individuals are far less likely to support that cause, even though they are more likely to be the victims of crime. Why?
