@@ -1,3 +1,7 @@
+---
+created: 2023-09-01
+updated: 2023-09-01
+---
 # Citizen Code of Conduct
 
 ## 1. Purpose

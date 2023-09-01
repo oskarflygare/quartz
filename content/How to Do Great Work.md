@@ -1,3 +1,7 @@
+---
+created: 2023-08-31
+updated: 2023-08-31
+---
 ## Metadata
 - Author: Paul Graham
 - Full Title: How to Do Great Work

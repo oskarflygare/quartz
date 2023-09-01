@@ -1,3 +1,7 @@
+---
+created: 2023-08-31
+updated: 2023-08-31
+---
 Admitting to being wrong is rarely, if ever, rewarded in the public sphere. It can also be painful on a personal level, and changing some beliefs should indeed require a lot of evidence. I still believe, though, that on the whole we should embrace being wrong more often.
 
 Being disproven is a sign of *good*, not bad, thinking. If you strive to be ruthless towards your beliefs and opinions about the world, you will get into the habit of expressing your ideas in a specific enough way for them to be disproven or corrected. This will sharpen your ideas over time, improving what's of high quality and discarding what turns out to be less useful.

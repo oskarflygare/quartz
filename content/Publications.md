@@ -1,3 +1,7 @@
+---
+created: 2023-08-31
+updated: 2023-08-31
+---
 Peer-reviewed articles and pre-prints. Most articles are published open access, but please e-mail me if you need a copy.
 
 - [Google Scholar profile](https://scholar.google.com/citations?user=QWN4RX0AAAAJ&hl=en&inst=16391793347078271450)

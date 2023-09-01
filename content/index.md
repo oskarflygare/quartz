@@ -1,7 +1,7 @@
 ---
 title: Oskar Flygare
 created: 2023-08-30
-updated: 2023-08-31
+updated: 2023-09-01
 ---
 
 Hi, welcome to the online collection of my notes. You'll find notes on topics related to my research areas along with many other things that tickle my interest. Many notes are unpolished and raw, this is a work in progress and learning in public!

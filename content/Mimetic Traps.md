@@ -1,3 +1,7 @@
+---
+created: 2023-08-31
+updated: 2023-08-31
+---
 ## Metadata
 - Author: Brian Timar
 - Full Title: Mimetic Traps
