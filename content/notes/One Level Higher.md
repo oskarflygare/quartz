@@ -1,11 +1,8 @@
 ---
 aliases: []
 created: 2022-09-07
-updated: 2023-09-01
+updated: 2023-09-04
 ---
-
-# One Level Higher
-Date created: 2022-02-28
 
 It's a [[Mental models]] to identify which systems (contexts, activities) in our life that are worth optimizing using [[First-principles thinking]].
 

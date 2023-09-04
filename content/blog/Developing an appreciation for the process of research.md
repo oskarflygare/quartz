@@ -5,13 +5,13 @@ tags:
   - writing/blog
 draft: 
 ---
-As a student, it was easy for me to fall in love with the idea of life as an academic: being able to think about and discuss interesting ideas with smart colleagues, having almost unlimited freedom over when and how and where you do your work, and working on important problems that could lead to substantial changes in how we assess and treat mental disorders. But just as in any other line of work, it's in the day-to-day work where these things happen. So in order to find long-term fulfilment and success in academia, it is worthwhile to develop skills in the [[Core activities]]  that appear over and over again. But how do you find the time and energy to do so with an already full schedule? By exploring the ways in which these activities are enjoyable.
+As a student, it was easy for me to fall in love with the idea of life as an academic: being able to think about and discuss interesting ideas with smart colleagues, having almost unlimited freedom over when and how and where you do your work, and working on important problems that could lead to substantial changes in how we assess and treat mental disorders. But just as in any other line of work, it's in the day-to-day work where these things happen. So in order to find long-term fulfilment and success in [[academia]], it is worthwhile to develop skills in the [[Core activities]]  that appear over and over again. But how do you find the time and energy to do so with an already full schedule? By exploring the ways in which these activities are enjoyable.
 
 > But liking the idea of being a novelist is not enough; you have to like the actual work of novel-writing if you're going to be good at it [...] - Paul Graham [[How to Do What You Love]]
 
 # Core processes
 ## Reading
-I appreciate reading when it nurtures my curiosity, when it develops my taste for good research and writing, and when it provides answers to questions I have.
+I appreciate reading when it nurtures my curiosity, when it develops my taste for good research and [[writing]], and when it provides answers to questions I have.
 ### Reading to nurture curiosity
 I try to read things that challenge my current view of the world, and research from other fields than my own. Sometimes I encounter new insights that are directly applicable to my own work, and almost always there is new information that I can use to challenge and develop my own ideas. You can use [[Cross-pollination]] to enrich your work with ideas from other fields.
 ### Reading to develop taste
@@ -54,7 +54,7 @@ It's easy for me to get stuck in consumption. If I just read one more article I 
 
 Having a habit of always creating things helps me reinforce what I just learned, and it also makes it easier to get started on the big projects. If example citations for twenty different articles on a certain topic are already written, the first step of writing an introduction means arranging those citations in a way that makes sense rather than staring at a blank page.
 ## Schedule for depth and stillness
-High-quality work in any of the core activities never happen in the midst of a frenzied workday, between email inboxes and meetings, at least not for me. I need to carve out chunks of time where I have a reasonable chance of making progress on difficult and complicated work.
+High-quality work in any of the [[core activities]] never happen in the midst of a frenzied workday, between email inboxes and meetings, at least not for me. I need to carve out chunks of time where I have a reasonable chance of making progress on difficult and complicated work.
 
 I try to schedule recurring time for writing and reading, because otherwise project-related tasks that seem urgent swamp my schedule. For me it's in the mornings 9-11. It doesn't sound like enough, but two good hours Monday-Friday will add up to a lot of writing and reading. This time is when I do my best cognitive work, and I protect it fiercely.
 

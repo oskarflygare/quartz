@@ -2,7 +2,6 @@
 aliases: []
 title: "{{title}}"
 ---
-ye
 
 
 ---

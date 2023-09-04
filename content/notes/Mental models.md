@@ -2,7 +2,7 @@
 aliases:
   - Mental model
 created: 2022-09-07
-updated: 2023-08-31
+updated: 2023-09-04
 ---
 #MOC 
 
@@ -55,6 +55,7 @@ Activation Energy
 [[Homeostasis]]
 [[Pruning]]
 [[Subgoal]]
+[[Response diversity]]
 
 ## Botany
 [[Cross-pollination]]
@@ -134,21 +135,21 @@ When using mental models we want to optimize *systems*, some examples:
 - **A machine** (toothbrush, rocket)
 - **A state of being** (health, happiness)
 
-### 1. One level Higher
+### 1. [[One level Higher]]
 Are you optimizing at the right level?
 
-### 2. Theory of Constraints
+### 2. [[Theory of Constraints]]
 Which of the system's inputs holds the constraint to further progress? Where is the bottleneck?
 
 ### 3. First principles
-If you don't get to where you want to be using the theory of constraints, re-examine the system from the ground up. Work from the foundations to create something better.
+If you don't get to where you want to be using the [[theory of constraints]], re-examine the system from the ground up. Work from the foundations to create something better.
 
 ## When making decisions
 
 ### Long-term: Regret Minimization
 *Long-term fulfillment*
 
-### Medium-term: Pareto Principle
+### Medium-term: [[Pareto Principle]]
 *Years, decades*
 Who to spend time with, which skills to hone, which career decisions to make
 
@@ -159,7 +160,7 @@ Who to spend time with, which skills to hone, which career decisions to make
 - **Confidence** that I will succeed
 - How **easy** is this goal to pursue
 
- ### Immediate: Eisenhower Matrix
+ ### Immediate: [[Eisenhower Matrix]]
  Useful for making day-to-day decisions
  [[Eisenhower Matrix]]
 
