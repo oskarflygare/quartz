@@ -1,25 +1,23 @@
 ---
 created: 2023-08-24
-updated: 2023-09-01
+updated: 2023-09-04
 tags:
   - writing/blog
 draft: 
 ---
-As a student, it was easy for me to fall in love with the idea of life as an academic: being able to think about and discuss interesting ideas with smart colleagues, having almost unlimited freedom over when and how and where you do your work, and working on important problems that could lead to substantial changes in how we assess and treat mental disorders. But just as in any other line of work, it's in the day-to-day work where these things happen. So in order to find long-term fulfilment and success in academia, it is worthwhile to invest in the core activities and develop an appreciation for the processes involved.
+As a student, it was easy for me to fall in love with the idea of life as an academic: being able to think about and discuss interesting ideas with smart colleagues, having almost unlimited freedom over when and how and where you do your work, and working on important problems that could lead to substantial changes in how we assess and treat mental disorders. But just as in any other line of work, it's in the day-to-day work where these things happen. So in order to find long-term fulfilment and success in academia, it is worthwhile to develop skills in the [[Core activities]]  that appear over and over again. But how do you find the time and energy to do so with an already full schedule? By exploring the ways in which these activities are enjoyable.
 
 > But liking the idea of being a novelist is not enough; you have to like the actual work of novel-writing if you're going to be good at it [...] - Paul Graham [[How to Do What You Love]]
 
-Reading, writing, and doing analyses are central to all research projects and publications in my field. Here's what I enjoy about these core processes, and some 
-tactics I employ to continue my development.
 # Core processes
 ## Reading
 I appreciate reading when it nurtures my curiosity, when it develops my taste for good research and writing, and when it provides answers to questions I have.
 ### Reading to nurture curiosity
-I try to read things that challenge my current view of the world, and research from other fields than my own. Sometimes I encounter new insights that are directly applicable to my own work, and almost always there is new information that I can use to challenge and develop my own ideas. You can cross-pollinate your own work with ideas from other fields, and translate those insights by analogy.
+I try to read things that challenge my current view of the world, and research from other fields than my own. Sometimes I encounter new insights that are directly applicable to my own work, and almost always there is new information that I can use to challenge and develop my own ideas. You can use [[Cross-pollination]] to enrich your work with ideas from other fields.
 ### Reading to develop taste
-Reading gives me a sense of the field, where things are currently and where they may be heading. What's the current dominant paradigms and theories? Who are the thought leaders, the individuals/groups currently doing the best work? Why is someone's writing appealing, why is this particular article convincing?
+Reading gives me a sense of the field, where things are currently and where they may be heading. What's the current dominant paradigms and theories? Who are the thought leaders, the individuals/groups currently doing the best work? Why is someone's writing appealing, why is this particular article convincing? [[Actively developing your taste in your field of work will help you select projects]].
 ### Reading to answer questions
-Sometimes I read with a clear goal in mind. I might read something to write a detailed critique in an introduction or use as inspiration for a study of my own. Other times I read research from an adjacent field to remix into your my research, perhaps a new statistical method or theoretical approach.
+[[A sustainable way to keep up with the research literature is to read with a goal in mind]]. I might read something to write a detailed critique in an introduction or use as inspiration for a study of my own. Other times I read research from an adjacent field to remix into your my research, perhaps a new statistical method or theoretical approach.
 ## Writing
 There is no way to do academic work without writing. A lot of writing. All the common academic activities are done through writing: seminars, manuscripts, grant proposals, lectures, collaboration efforts...
 
@@ -45,13 +43,13 @@ Your skills are always needed, which means you can use them to collaborate on in
 # Tactics
 By now you might agree that there are interesting and valuable aspects of reading, writing, and doing analyses. Unfortunately, this inspiration is rarely enough to change deeply ingrained habits.
 
-One reason we don't spend more time on these core activities is that they rarely provide tangible signs of progress. There may be few or no clear indications of steady progress and tasks to be ticked off. This is less stimulating than answering email, sitting in on an interesting seminar, arranging the project tasks *just so* in your software of choice, et cetera.
+[[Subtle or slow progress in research feels frustrating and unrewarding]]. There may be few or no clear indications of steady progress and tasks to be ticked off. This is less stimulating than answering email, sitting in on an interesting seminar, arranging the project tasks *just so* in your software of choice, et cetera.
 
-The activities are also inherently difficult. It's hard to express a complex idea in writing, it's hard to solve a thorny data issue needed for your report, it's hard to read about a theory you haven't encountered before.
+The activities are also inherently difficult. [[Confusion or resistance when writing are not inherently bad, they are part of the process]].
 ## Always create things
 It's easy for me to get stuck in consumption. If I just read one more article I might have enough material to write the discussion section, if I watch one more tutorial I might be able to do the analyses needed for our next project.
 
-To fight this tendency, I challenge myself to always create something. At the very least, the article I read should have generated a one-sentence summary written in my own words. Ideally I also have notes about my reflections and impressions of the article, why I find it convincing or not. One or two examples of how I might cite the article are included in the note if the article is directly applicable to my own research.
+[[By continuously working on your own projects, you create things and take accountability rather than passively consuming content]]. At the very least, the article I read should have generated a one-sentence summary written in my own words. Ideally I also have notes about my reflections and impressions of the article, why I find it convincing or not. One or two examples of how I might cite the article are included in the note if the article is directly applicable to my own research.
 
 Having a habit of always creating things helps me reinforce what I just learned, and it also makes it easier to get started on the big projects. If example citations for twenty different articles on a certain topic are already written, the first step of writing an introduction means arranging those citations in a way that makes sense rather than staring at a blank page.
 ## Schedule for depth and stillness
