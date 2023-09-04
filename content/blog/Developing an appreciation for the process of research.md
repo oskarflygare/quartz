@@ -19,9 +19,9 @@ Reading gives me a sense of the field, where things are currently and where they
 ### Reading to answer questions
 [[A sustainable way to keep up with the research literature is to read with a goal in mind]]. I might read something to write a detailed critique in an introduction or use as inspiration for a study of my own. Other times I read research from an adjacent field to remix into your my research, perhaps a new statistical method or theoretical approach.
 ## Writing
-There is no way to do academic work without writing. A lot of writing. All the common academic activities are done through writing: seminars, manuscripts, grant proposals, lectures, collaboration efforts...
+[[Writing is the medium of research]]. All the common academic activities are done through writing: seminars, manuscripts, grant proposals, lectures, collaboration efforts...
 
-I used to not enjoy it and see writing purely as a means to an end, but more recently I've come to appreciate writing itself. One of the major roadblocks for me is that I have developed a taste for good writing through reading influential papers in the field, and my own writing will never match those standards. 
+I used to not enjoy it and see writing purely as a means to an end, but more recently I've come to appreciate writing itself. One annoying thing after reading articles with good writing is that your writing will never match those standards, but [[Persistent effort will lead you to do work in line with your taste]].
 ### Writing to sharpen my thinking
 Writing is the best way to put your thoughts to the test. What seemed brilliant and fully thought out in your head will fall apart once you put it in writing, and this is good!
 ### Writing to generate ideas
@@ -31,7 +31,8 @@ Writing is the way through which most collaboration happens. Being able to commu
 ## Analyses
 The statistical analysis is the sharp tip of the empirical research process. It's what everything boils down to, where you get to see if the brilliant idea held up or not. Lack of time or expertise to do statistical analyses is also the most common bottleneck in my research environment, so it's a particularly valuable process to invest time in.
 
-> The students who ultimately succeed in learning R are not the ones who force themselves to memorize functions or do a bunch of coding drills. **They’re the ones who accept they will feel stupid and that most of the rules will at first seem totally arbitrary, and who understand that they will gain great power if they just keep going.** - Adam Mastroianni [[You'll Forget Most of What You Learn. What Should You Do About That]]
+> The students who ultimately succeed in learning R are not the ones who force themselves to memorize functions or do a bunch of coding drills. They’re the ones who accept they will feel stupid and that most of the rules will at first seem totally arbitrary, and who understand that they will gain great power if they just keep going.
+- Adam Mastroianni in [[You'll Forget Most of What You Learn. What Should You Do About That]]
 ### Analyses to get deep knowledge of the research process
 By performing statistical analyses on a set of data, you dive deep into the intricacies, possibilities and limitations of the research process. It's at the stage of analyses you encounter the design flaws that change which research questions can be answered, and identify the impact of compromises done during the active project phase. This knowledge is extremely valuable when planning future projects and is hard to come by without hands-on work with data.
 
@@ -78,4 +79,4 @@ Explore early and try out many different parts and roles. Once you find what you
 - How will I balance the long-term goals with the short-term realities of the situation I find myself in?
 
 ## Collaborate
-Look for people who are fun to work with, that contribute to your shared work, and have a shared ambition. Having colleagues that you appreciate working with will go a long way in creating an appreciation for the academic work.
+[[Positivity, contribution, and aligned ambitions are traits of great scientific collaborators]]. Having colleagues that you enjoy working with will go a long way in creating an appreciation for the academic work.
