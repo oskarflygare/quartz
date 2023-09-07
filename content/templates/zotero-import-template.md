@@ -2,9 +2,9 @@
 alias: [{% if shortTitle %}"{{shortTitle | safe}}"{% else %}"{{title | safe}}"{% endif %}]
 title: {{title}}
 tags: #article 
+created: {{importDate | format("YYYY-MM-DD")}}
 ---
 
-- Date read: {{importDate | format("YYYY-MM-DD")}}
 - Bibtex: @{{citekey}}
 - Bibliography: {{bibliography}}
 

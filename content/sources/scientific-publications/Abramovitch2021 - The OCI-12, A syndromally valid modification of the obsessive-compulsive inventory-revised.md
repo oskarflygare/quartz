@@ -1,13 +1,8 @@
 ---
 created: 2022-09-07
-updated: 2023-08-31
+updated: 2023-09-06
 ---
-# Abramovitch2021 - The OCI-12, A syndromally valid modification of the obsessive-compulsive inventory-revised
 
-* Type: #article
-* Year read: #read2022
-* Subject: [[OCI-R]] [[OCD]] [[Psychometrics]]
-* Bibtex: @abramovitch2021a
 * Bibliography: Abramovitch, A., Abramowitz, J. S., & McKay, D. (2021). The OCI-12: A syndromally valid modification of the obsessive-compulsive inventory-revised. _Psychiatry Research_, _298_, 113808. [https://doi.org/10.1016/j.psychres.2021.113808](https://doi.org/10.1016/j.psychres.2021.113808)
 ---
 # Example citation
@@ -15,7 +10,7 @@ updated: 2023-08-31
 A shorter version of the OCI-R, the OCI-12, excludes the hoarding and neutralizing subscales and has similar psychometric properties compared to the full OCI-R scale [@abramovitch2021a] 
 
 # Key takeaways
-* Four core OCD dimensions in factor analyses of OCD (checking, ordering, washing, obsessing)
+* Four core [[OCD]] dimensions in factor analyses of OCD (checking, ordering, washing, obsessing)
 * OCI-R includes hoarding and neutralizing as well
 * OCD patients (n = 1087), other anxiety disorders (n = 1306), community volunteers (n = 423)
 * Cronbach's alpha = 0.79 (but lower than OCI-R = 0.83)

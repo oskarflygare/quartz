@@ -164,6 +164,10 @@ Foa2005
 
 EX/RP better than risperidone as augmentation of SRIs - [[Simpson2013 - Cognitive-Behavioral Therapy vs Risperidone for Augmenting Serotonin Reuptake Inhibitors in Obsessive-Compulsive Disorder, A Randomized Clinical Trial]]
 
+#### Cost-effectiveness
+
+- [[The average cost of providing ICBT for children and adolescents with OCD was $2140]] - [[aspvall2021]]
+- [[ICBT stepped-care for children and adolescents with OCD led to cost savings of $2104 compared to face-to-face CBT]] - [[aspvall2021]]
 
 #### OCD and ASD
 

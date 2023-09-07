@@ -54,6 +54,7 @@ Date created: 2023-01-10
 ## Costs and resource use
 - [[The majority of health-care costs in the year after self-harm are due to inpatient psychiatric care]]
 - [[The probability of sickness absence, disability pension and psychiatric care is increased in the years following a suicide attempt]]
+- [[DBT-A leads to long-term cost savings compared to treatment as usual due to fewer inpatient and emergency visits]] - [[haga2018]]
 
 ## EMA findings
 - [[Suicidal ideation tends to be episodic, with quick onset and short duration]]

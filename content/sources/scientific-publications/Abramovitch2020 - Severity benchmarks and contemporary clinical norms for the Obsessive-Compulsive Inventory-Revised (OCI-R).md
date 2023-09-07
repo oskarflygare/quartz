@@ -1,12 +1,7 @@
 ---
 created: 2022-09-07
-updated: 2023-08-31
+updated: 2023-09-06
 ---
-# Abramovitch2020 - Severity benchmarks and contemporary clinical norms for the Obsessive-Compulsive Inventory-Revised (OCI-R)
-* Type:  #article
-* Year read: #read2021
-* Subject: [[OCD]] [[OCI-R]] [[Psychometrics]]
-* Bibtex: @abramovitch2020
 * Bibliography: Abramovitch, A., Abramowitz, J. S., Riemann, B. C., & McKay, D. (2020). Severity benchmarks and contemporary clinical norms for the Obsessive-Compulsive Inventory-Revised (OCI-R). _Journal of Obsessive-Compulsive and Related Disorders_, _27_, 100557. [https://doi.org/10.1016/j.jocrd.2020.100557](https://doi.org/10.1016/j.jocrd.2020.100557)
 ---
 ## Example citation
