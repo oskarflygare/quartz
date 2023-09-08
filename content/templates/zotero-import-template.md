@@ -1,8 +1,12 @@
 ---
-alias: [{% if shortTitle %}"{{shortTitle | safe}}"{% else %}"{{title | safe}}"{% endif %}]
-title: {{title}}
-tags: #article 
-created: {{importDate | format("YYYY-MM-DD")}}
+aliases:
+  - "{% if shortTitle %} {{shortTitle | safe}} {% else %} {{title | safe}} {% endif %}"
+created: 
+tags:
+  - article
+title: "{{title}}"
+---
+
 ---
 
 - Bibtex: @{{citekey}}

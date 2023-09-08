@@ -4,7 +4,7 @@ created: 2023-08-30
 updated: 2023-09-04
 ---
 
-Hi, welcome to the online collection of my notes. You'll find notes on topics related to my research areas along with many other things that tickle my interest. This site is a place to share my work in public and connect to people like you.
+Hi, welcome to my website and online collection of notes. You'll find notes on topics related to my research areas along with many other things that tickle my interest. This site is a place to share my work in public and connect to people like you.
 
 - I sometimes write [[Blog posts]]
 - Peer-reviewed [[Publications]]
@@ -16,7 +16,7 @@ I'm a post-doc and licensed psychologist working in the [Bjureberg/Hellner](http
 
 My research aims to understand [[suicide]] and self-injury, the psychological mechanisms involved and how to treat those difficulties.
 
-Other research interests include the psychological treatment of [[OCD]], [[BDD]], [[ASD]] and other disorders, particularly internet-delivered cognitive behaviour therapy (ICBT).
+Other research interests include the psychological treatment of [[OCD]], [[BDD]], [[ASD]] and other disorders, often through internet-delivered cognitive behaviour therapy (ICBT).
 
 ## Outside of work
 

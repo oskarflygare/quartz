@@ -27,6 +27,7 @@ Date created: 2023-01-10
 - [[There are approximately 20 suicide attempts for every death by suicide]]
 - [[The life expectancy of self-harming individuals is reduced by 25 years]]
 - [[Individuals who self-harm have 3.6 times increased all-cause mortality]]
+	- [[Only 28% of those with self-harm at age 16 were free from mental health or substance use problems, and had adequate educational or employment status]]
 - [[The interaction of reduced ideation, increased energy, and improved mood may put individuals within a high threshold of high risk of suicide during spring]]
 
 ### Health care contacts before suicide
