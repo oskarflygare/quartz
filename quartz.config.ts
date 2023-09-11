@@ -11,7 +11,7 @@ const config: QuartzConfig = {
     },
     baseUrl: "oskarflygare.github.io/quartz",
     ignorePatterns: ["private", "templates", ".obsidian"],
-    defaultDateType: "created",
+    defaultDateType: "modified",
     theme: {
       typography: {
         header: "IBM Plex Sans Condensed",
