@@ -14,7 +14,7 @@ Hi, welcome to my website and online collection of notes. You'll find notes on t
 
 I'm a post-doc and licensed psychologist working in the [Bjureberg/Hellner](https://ki.se/cns/johan-bjureberg-och-clara-hellners-forskargrupp?ref=oskarflygare.com) and [Rücklab](https://rucklab.com/?ref=oskarflygare.com) research groups at Karolinska Institutet.
 
-My research aims to understand [[suicide]] and self-injury, the psychological mechanisms involved and how to treat those difficulties.
+My research aims to understand [[Suicide]] and self-injury, the psychological mechanisms involved and how to treat those difficulties.
 
 Other research interests include the psychological treatment of [[OCD]], [[BDD]], [[ASD]] and other disorders, often through internet-delivered cognitive behaviour therapy (ICBT).
 
