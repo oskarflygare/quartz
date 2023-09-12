@@ -1,14 +1,11 @@
 ---
-alias:
+aliases:
   - Instruments for the assessment of suicide risk
 created: 2023-07-19
-updated: 2023-08-31
+updated: 2023-09-12
+tags:
+  - article
 ---
-
-# Instruments for the assessment of suicide risk: A systematic review evaluating the certainty of the evidence
-
-- Type : #article 
-- Date read: 2023-07-19
 - Bibtex: @runeson2017
 - Bibliography: Runeson, B., Odeberg, J., Pettersson, A., Edbom, T., Adamsson, I. J., & Waern, M. (2017). Instruments for the assessment of suicide risk: A systematic review evaluating the certainty of the evidence. _PLOS ONE_, _12_(7), e0180292. [https://doi.org/10.1371/journal.pone.0180292](https://doi.org/10.1371/journal.pone.0180292)
 

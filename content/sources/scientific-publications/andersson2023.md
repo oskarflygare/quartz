@@ -1,15 +1,11 @@
 ---
-alias:
-  - Association of Bipolar Disorder Diagnosis With Suicide Mortality Rates in
-    Adolescents in Sweden
+aliases:
+  - Association of Bipolar Disorder Diagnosis With Suicide Mortality Rates in Adolescents in Sweden
 created: 2023-06-21
-updated: 2023-08-31
+updated: 2023-09-12
+tags:
+  - article
 ---
-
-# Association of Bipolar Disorder Diagnosis With Suicide Mortality Rates in Adolescents in Sweden
-
-- Type : #article 
-- Date read: 2023-06-21
 - Bibtex: @andersson2023
 - Bibliography: Andersson, P., Jokinen, J., Jarbin, H., Lundberg, J., & Desai Boström, A. E. (2023). Association of Bipolar Disorder Diagnosis With Suicide Mortality Rates in Adolescents in Sweden. _JAMA Psychiatry_. [https://doi.org/10.1001/jamapsychiatry.2023.1390](https://doi.org/10.1001/jamapsychiatry.2023.1390)
 
@@ -21,7 +17,7 @@ updated: 2023-08-31
 ---
 # My notes
 - Female adolescents were 3 times more likely than males to get a bipolar diagnosis
-- I really like this! They used open data from Socialstyrelsen only, no consents or ethical permits needed, and still managed to produce a super well-done and important article. Are there any other regional and year-by-year differences that we should explore? 
+- They used open data from Socialstyrelsen only, no consents or ethical permits needed, and still managed to produce a super well-done and important article. Are there any other regional and year-by-year differences that we should explore? 
 	- What makes the case for bipolar disorder particularly strong is that the underlying construct is likely very stable and therefore regional differences can be attributed to health-care practices.
 
 > *Notably, bipolar disorder diagnosis frequencies were robustly associated with decreased suicide death rates in male adolescents [...]*

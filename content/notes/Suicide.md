@@ -1,12 +1,12 @@
 ---
 created: 2023-01-10
-updated: 2023-08-31
+updated: 2023-09-12
 tags:
   - MOC
 ---
 
+![[Screenshot 2023-09-12 at 14.14.59.png]]
 
-![[Screenshot 2023-03-03 at 11.12.54.png]]
 [Swedish data, here is the link](http://fohm-app.folkhalsomyndigheten.se/Folkhalsodata/pxweb/sv/A_Folkhalsodata/A_Folkhalsodata__A_Mo8__Halsoutfall__02Pyskhals__02.07Sjlvmord/SjlvmordAld.px/chart/chartViewLine/)
 
 # Insights

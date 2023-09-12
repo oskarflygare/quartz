@@ -1,11 +1,11 @@
 ---
-alias:
+aliases:
   - Healthcare and social services resource use and costs of self-harm patients
 created: 2023-07-17
-updated: 2023-09-01
+updated: 2023-09-12
+tags:
+  - article
 ---
-- Type : #article 
-- Date read: 2023-07-17
 - Bibtex: @sinclair2011
 - Bibliography: Sinclair, J. M. A., Gray, A., Rivero-Arias, O., Saunders, K. E. A., & Hawton, K. (2011). Healthcare and social services resource use and costs of self-harm patients. _Social Psychiatry and Psychiatric Epidemiology_, _46_(4), 263–271. [https://doi.org/10.1007/s00127-010-0183-5](https://doi.org/10.1007/s00127-010-0183-5)
 

@@ -1,12 +1,10 @@
 ---
 created: 2023-03-27
-updated: 2023-08-31
+updated: 2023-09-12
+tags:
+  - article
 ---
-# Qin2022 - Association of Psychiatric Services Referral and Attendance Following Treatment for Deliberate Self-harm With Prospective Mortality in Norwegian Patients
 
-* Type: #article
-* Date read: 2023-03-27
-* Subject: [[Suicide]]
 * Bibtex: @qin2022
 * Bibliography: Qin, P., Stanley, B., Melle, I., & Mehlum, L. (2022). Association of Psychiatric Services Referral and Attendance Following Treatment for Deliberate Self-harm With Prospective Mortality in Norwegian Patients. _JAMA Psychiatry_, _79_(7), 651–658. [https://doi.org/10.1001/jamapsychiatry.2022.1124](https://doi.org/10.1001/jamapsychiatry.2022.1124)
 ---

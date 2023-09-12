@@ -1,12 +1,8 @@
 ---
 aliases: []
 created: 2023-02-13
-updated: 2023-09-01
+updated: 2023-09-12
 ---
-
-# There are about 700 000 deaths by suicide in the world each year
-Date created: 2023-02-13
-
 This amounts to around 1.3% of all deaths in a given year.
 
 In Sweden there are about 1200 suicides per year.

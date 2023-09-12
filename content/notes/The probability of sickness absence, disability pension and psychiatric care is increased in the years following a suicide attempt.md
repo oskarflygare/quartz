@@ -1,15 +1,11 @@
 ---
 aliases: []
 created: 2023-07-21
-updated: 2023-09-01
+updated: 2023-09-12
 ---
-
-# The probability of sickness absence, disability pension and psychiatric care is increased in the years following a suicide attempt
-Date created: 2023-07-21
-
 Hardly a surprise, but the results are robust in model 3 since they adjust for many relevant factors in the years pre-attempt. 
 
-![[Screenshot 2023-07-21 at 11.54.07.png]]
+![[Screenshot 2023-09-12 at 14.27.55.png]]
 
 ---
 # References

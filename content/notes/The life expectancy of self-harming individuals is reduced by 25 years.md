@@ -1,15 +1,11 @@
 ---
 aliases: []
 created: 2023-05-24
-updated: 2023-09-01
+updated: 2023-09-12
 ---
 
-# The life expectancy of self-harming individuals is reduced by 25 years
-Date created: 2023-05-24
 
-This number was way higher than I had expected, and I was surprised that it was true for natural causes as well.
-
-![[Screenshot 2023-05-24 at 11.02.34.png]]
+This number is based on ~30k individuals at emergency departments in the UK. There is a mean of 40.2 years of life lost when looking at external-cause events.
 
 ---
 # References

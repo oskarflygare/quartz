@@ -1,15 +1,11 @@
 ---
-alias:
-  - Does Response on the PHQ-9 Depression Questionnaire Predict Subsequent
-    Suicide Attempt or Suicide Death?
+aliases:
+  - Does Response on the PHQ-9 Depression Questionnaire Predict Subsequent Suicide Attempt or Suicide Death?
 created: 2023-07-19
-updated: 2023-08-31
+updated: 2023-09-12
+tags:
+  - article
 ---
-
-# Does Response on the PHQ-9 Depression Questionnaire Predict Subsequent Suicide Attempt or Suicide Death?
-
-- Type : #article 
-- Date read: 2023-07-19
 - Bibtex: @simon2013
 - Bibliography: Simon, G. E., Rutter, C. M., Peterson, D., Oliver, M., Whiteside, U., Operskalski, B., & Ludman, E. J. (2013). Does Response on the PHQ-9 Depression Questionnaire Predict Subsequent Suicide Attempt or Suicide Death? _Psychiatric Services_, _64_(12), 1195–1202. [https://doi.org/10.1176/appi.ps.201200587](https://doi.org/10.1176/appi.ps.201200587)
 

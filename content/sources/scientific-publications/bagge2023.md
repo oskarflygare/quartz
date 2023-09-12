@@ -1,15 +1,11 @@
 ---
-alias:
-  - A controlled examination of acute warning signs for suicide attempts among
-    hospitalized patients
+aliases:
+  - A controlled examination of acute warning signs for suicide attempts among hospitalized patients
 created: 2023-07-10
-updated: 2023-08-31
+updated: 2023-09-12
+tags:
+  - article
 ---
-
-# A controlled examination of acute warning signs for suicide attempts among hospitalized patients
-
-- Type : #article 
-- Date read: 2023-07-10
 - Bibtex: @bagge2023
 - Bibliography: Bagge, C. L., Littlefield, A. K., Wiegand, T. J., Hawkins, E., Trim, R. S., Schumacher, J. A., Simons, K., & Conner, K. R. (2023). A controlled examination of acute warning signs for suicide attempts among hospitalized patients. _Psychological Medicine_, _53_(7), 2768–2776. [https://doi.org/10.1017/S0033291721004712](https://doi.org/10.1017/S0033291721004712)
 
@@ -33,10 +29,6 @@ updated: 2023-08-31
 (Paying off bills or giving away things, writing or revising a will, arranging for other to take care of loved ones or affairs)
 
 > The TLFB-SA was used to gather retrospective information on behaviors and events, affective responses, and cognitions during the 48 h prior to the suicide attempt.
-
-![[Screenshot 2023-07-10 at 10.58.30.png]]
-
-![[Screenshot 2023-07-10 at 10.58.42.png]]
 
 ---
 

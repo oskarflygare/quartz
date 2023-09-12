@@ -2,7 +2,7 @@
 aliases: []
 title: DBT-A leads to long-term cost savings compared to treatment as usual due to fewer inpatient and emergency visits
 created: 2023-09-07
-updated:
+updated: 2023-09-12
 ---
 The cost savings were as large as €-10787 at the 71 week follow-up. This was largely driven by two very long inpatient stays in the TAU group.
 

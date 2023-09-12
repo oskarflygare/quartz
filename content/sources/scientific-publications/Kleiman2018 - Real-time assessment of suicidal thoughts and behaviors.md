@@ -1,12 +1,9 @@
 ---
 created: 2023-02-15
-updated: 2023-08-31
+updated: 2023-09-12
+tags:
+  - article
 ---
-# Kleiman2018 - Real-time assessment of suicidal thoughts and behaviors
-
-* Type: #article
-* Date read: 2023-02-15
-* Subject: [[Suicide]] [[ecological momentary assessment]]
 * Bibtex: @kleiman2018b
 * Bibliography: Kleiman, E. M., & Nock, M. K. (2018). Real-time assessment of suicidal thoughts and behaviors. _Current Opinion in Psychology_, _22_, 33–37. [https://doi.org/10.1016/j.copsyc.2017.07.026](https://doi.org/10.1016/j.copsyc.2017.07.026)
 ---

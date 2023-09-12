@@ -1,12 +1,9 @@
 ---
 created: 2023-02-15
-updated: 2023-08-31
+updated: 2023-09-12
+tags:
+  - article
 ---
-# Husky2017 - Predictors of daily life suicidal ideation in adults recently discharged after a serious suicide attempt, A pilot study
-
-* Type: #article
-* Date read: 2023-02-15
-* Subject: [[Suicide]] [[ecological momentary assessment]]
 * Bibtex: @husky2017
 * Bibliography: Husky, M., Swendsen, J., Ionita, A., Jaussent, I., Genty, C., & Courtet, P. (2017). Predictors of daily life suicidal ideation in adults recently discharged after a serious suicide attempt: A pilot study. _Psychiatry Research_, _256_, 79–84. [https://doi.org/10.1016/j.psychres.2017.06.035](https://doi.org/10.1016/j.psychres.2017.06.035)
 ---

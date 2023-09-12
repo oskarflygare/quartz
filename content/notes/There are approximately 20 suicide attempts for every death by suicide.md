@@ -1,15 +1,9 @@
 ---
 aliases: []
 created: 2023-02-13
-updated: 2023-09-01
+updated: 2023-09-12
 ---
-
-# There are approximately 20 suicide attempts for every death by suicide
-Date created: 2023-02-13
-
 Since there are around 800,000 deaths worldwide each year, this means around 16 million attemps.
-
-This number was a lot higher than I thought, my estimate was at around 3-5 attempts per suicide.
 
 ---
 # References

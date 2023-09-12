@@ -1,12 +1,9 @@
 ---
 created: 2023-03-15
-updated: 2023-08-31
+updated: 2023-09-12
+tags:
+  - article
 ---
-# Millner2016 - Describing and Measuring the Pathway to Suicide Attempts, A Preliminary Study
-
-* Type: #article
-* Date read: 2023-03-15
-* Subject: [[Suicide]]
 * Bibtex: @millner2016
 * Bibliography: Millner, A. J., Lee, M. D., & Nock, M. K. (2017). Describing and Measuring the Pathway to Suicide Attempts: A Preliminary Study. _Suicide and Life-Threatening Behavior_, _47_(3), 353–369. [https://doi.org/10.1111/sltb.12284](https://doi.org/10.1111/sltb.12284)
 ---
@@ -22,5 +19,3 @@ updated: 2023-08-31
 ---
 
 > Outlining and describing how people move from thinking to attempting suicide might provide a basis for consensus operationalization and consistent measurement that is necessary for reliable and valid research.
-
-![[Screenshot 2023-03-15 at 15.29.58.png]]

@@ -1,12 +1,11 @@
 ---
-alias:
+aliases:
   - Premature death after self-harm
 created: 2023-05-24
-updated: 2023-09-01
+updated: 2023-09-12
+tags:
+  - article
 ---
-
-- Type : #article 
-- Date read: 2023-05-24
 - Bibtex: @bergen2012
 - Bibliography: Bergen, H., Hawton, K., Waters, K., Ness, J., Cooper, J., Steeg, S., & Kapur, N. (2012). Premature death after self-harm: A multicentre cohort study. _The Lancet_, _380_(9853), 1568–1574. [https://doi.org/10.1016/S0140-6736(12)61141-6](https://doi.org/10.1016/S0140-6736(12)61141-6)
 

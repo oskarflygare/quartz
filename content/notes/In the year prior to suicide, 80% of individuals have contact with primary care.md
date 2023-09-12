@@ -1,12 +1,9 @@
 ---
 aliases: []
 created: 2023-03-03
-updated: 2023-09-01
+updated: 2023-09-12
 ---
-
-# In the year prior to suicide, 80% of individuals have contact with primary care
-Date created: 2023-03-03
-
+Based on 44 studies in a systematic review.
 
 
 ---

@@ -1,14 +1,11 @@
 ---
 created: 2023-02-15
-updated: 2023-08-31
+updated: 2023-09-12
+tags:
+  - article
 ---
-# Nock2009 - Revealing the form and function of self-injurious thoughts and behaviors, A real-time ecological assessment study among adolescents and young adults
-
-* Type: #article
-* Date read: 2023-02-15
-* Subject: [[self-harm]] [[ecological momentary assessment]]
-* Bibtex: @author2023
-* Bibliography:
+* Bibtex: @nock2009
+* Bibliography: Nock, M. K., Prinstein, M. J., & Sterba, S. K. (2009). Revealing the form and function of self-injurious thoughts and behaviors: A real-time ecological assessment study among adolescents and young adults. _Journal of Abnormal Psychology_, _118_(4), 816–827. [https://doi.org/10.1037/a0016948](https://doi.org/10.1037/a0016948)
 ---
 # Example citation
 

@@ -1,12 +1,9 @@
 ---
 created: 2023-03-22
-updated: 2023-08-31
+updated: 2023-09-12
+tags:
+  - article
 ---
-# Tidemalm2011 - Familial clustering of suicide risk, A total population study of 11,4 million individuals
-
-* Type: #article
-* Date read: 2023-03-22
-* Subject: [[Suicide]]
 * Bibtex: @tidemalm2011
 * Bibliography: Tidemalm, D., Runeson, B., Waern, M., Frisell, T., Carlström, E., Lichtenstein, P., & Långström, N. (2011). Familial clustering of suicide risk: A total population study of 11.4 million individuals. _Psychological Medicine_, _41_(12), 2527–2534. [https://doi.org/10.1017/S0033291711000833](https://doi.org/10.1017/S0033291711000833)
 ---

@@ -1,12 +1,10 @@
 ---
 created: 2023-01-20
-updated: 2023-08-31
+updated: 2023-09-12
+tags:
+  - article
 ---
- # Naghavi2019 - Global, regional, and national burden of suicide mortality 1990 to 2016, systematic analysis of the Global Burden of Disease study 2016
 
-* Type: #article
-* Date read: 2023-01-20
-* Subject: (in brackets, can also bracket keywords in text)
 * Bibtex: @naghavi2019
 * Bibliography: Naghavi, M. (2019). Global, regional, and national burden of suicide mortality 1990 to 2016: Systematic analysis for the Global Burden of Disease Study 2016. _BMJ_, _364_, l94. [https://doi.org/10.1136/bmj.l94](https://doi.org/10.1136/bmj.l94)
 ---

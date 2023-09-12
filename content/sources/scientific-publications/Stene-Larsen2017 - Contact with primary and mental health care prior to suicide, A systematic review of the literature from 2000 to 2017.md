@@ -1,12 +1,9 @@
 ---
 created: 2023-03-03
-updated: 2023-08-31
+updated: 2023-09-12
+tags:
+  - article
 ---
-# Stene-Larsen2017 - Contact with primary and mental health care prior to suicide, A systematic review of the literature from 2000 to 2017
-
-* Type: #article
-* Date read: 2023-03-03
-* Subject: [[Suicide]]
 * Bibtex: @stene-larsen2017
 * Bibliography: Stene-Larsen, K., & Reneflot, A. (2017). Contact with primary and mental health care prior to suicide: A systematic review of the literature from 2000 to 2017. _Scand. J. Public Health_, 1403494817746274. [https://doi.org/10.1177/1403494817746274](https://doi.org/10.1177/1403494817746274)
 ---
@@ -21,6 +18,5 @@ updated: 2023-08-31
 	* 17 record reviews
 	* 7 record reviews with additional data
 	* 13 registry studies
-* three
 
 ---

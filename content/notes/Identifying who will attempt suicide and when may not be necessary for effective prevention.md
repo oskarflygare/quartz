@@ -1,13 +1,9 @@
 ---
 aliases: []
 created: 2023-02-02
-updated: 2023-09-01
+updated: 2023-09-12
 ---
-
-# Identifying who will attempt suicide and when may not be necessary for effective prevention
-Date created: 2023-02-02
-
-We are overly focused on personalized risk assessments, when much could be gained by focusing on general factors in the environment instead.
+Craig Bryan argues that we are overly focused on personalized risk assessments, when much could be gained by focusing on general factors in the environment instead.
 
 Rather than knowing who will attempt suicide and at which moment, we can make *all* suicide attempts less dangerous.
 

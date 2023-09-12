@@ -1,6 +1,6 @@
 ---
 created: 2023-01-02
-updated: 2023-09-01
+updated: 2023-09-12
 author: Craig J. Bryan
 tags:
   - book
@@ -10,7 +10,7 @@ Rating: 3/5
 # Key takeaways
 - I liked the part about systems thinking the most: that there is not really a clear continuum and dose-response relationship between risk factors and risk. We need a new way of viewing suicide risk that is beyond just ticking of risk factors.
 - The patient examples with rapid cycling in risk was also interesting. It's not a static thing.
-- When he discussed harms reduction with traffic incidents as a comparator the conclusions were kind of obvious. We can reduce the harms withuot focusing so much on the individual, move to the environment instead.
+- When he discussed harms reduction with traffic incidents as a comparator the conclusions were kind of obvious. We can reduce the harms without focusing so much on the individual, move to the environment instead.
 	- On the traffic fatality side, we don’t expect that any algorithm will ever be able to tell us when and where any driver will experience a traffic accident, let alone die in a traffic accident, and we generally do not anticipate or expect that any algorithms or tools will ever be developed for this purpose. When it comes to suicide, however, we assume that detection and identification methods are critical or even necessary for prevention, and we generally expect that suicide-risk screening methods and algorithms should be able to do so.
 
 ---

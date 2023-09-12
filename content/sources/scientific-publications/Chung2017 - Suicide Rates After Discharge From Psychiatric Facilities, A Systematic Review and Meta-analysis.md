@@ -1,12 +1,9 @@
 ---
 created: 2023-02-22
-updated: 2023-08-31
+updated: 2023-09-12
+tags:
+  - article
 ---
-# Chung2017 - Suicide Rates After Discharge From Psychiatric Facilities, A Systematic Review and Meta-analysis
-
-* Type: #article
-* Date read: 2023-02-22
-* Subject: [[Suicide]]
 * Bibtex: @chung2017
 * Bibliography: Chung, D. T., Ryan, C. J., Hadzi-Pavlovic, D., Singh, S. P., Stanton, C., & Large, M. M. (2017). Suicide Rates After Discharge From Psychiatric Facilities: A Systematic Review and Meta-analysis. _JAMA Psychiatry_, _74_(7), 694–702. [https://doi.org/10.1001/jamapsychiatry.2017.1044](https://doi.org/10.1001/jamapsychiatry.2017.1044)
 ---

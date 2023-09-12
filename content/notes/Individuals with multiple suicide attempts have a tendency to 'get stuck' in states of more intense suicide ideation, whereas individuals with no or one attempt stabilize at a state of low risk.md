@@ -1,11 +1,8 @@
 ---
 aliases: []
 created: 2023-03-01
-updated: 2023-09-01
+updated: 2023-09-12
 ---
-
-# Individuals with multiple suicide attempts have a tendency to 'get stuck' in states of more intense suicide ideation, whereas individuals with no or one attempt stabilize at a state of low risk
-Date created: 2023-03-01
 
 > All three groups had attractor set points at a low level of suicide ideation (x < 0.35), which suggests that, regardless of suicide attempt history, suicide ideation tended to be drawn toward and stabilize at a relatively low-risk state.
 
