@@ -2,13 +2,10 @@
 aliases:
   - Mental model
 created: 2022-09-07
-updated: 2023-09-04
+updated: 2023-09-12
+tags:
+  - MOC
 ---
-#MOC 
-
-# Mental models
-Date created: 2022-02-28
-
 Mental models are useful tools for thinking because they let us identify the structure of a system quickly, they are shortcuts for thinking strategically. I have some categories below which are rough and should not limit the use of a mental model beyond that category; it's simply the origin or a common context.
 
 # Categories
@@ -56,6 +53,7 @@ Activation Energy
 [[Pruning]]
 [[Subgoal]]
 [[Response diversity]]
+[[Resilience]]
 
 ## Botany
 [[Cross-pollination]]

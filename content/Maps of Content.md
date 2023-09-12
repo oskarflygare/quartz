@@ -1,7 +1,7 @@
 ---
 aliases: []
 created: 2023-09-01
-updated: 2023-09-01
+updated: 2023-09-12
 tags:
   - MOC
 ---
@@ -24,6 +24,7 @@ More or less structured summary-notes relating to an area I am interested in.
 - [[Mental models]]
 - [[Writing]]
 - [[Books]]
+- [[Resilience]]
 
 ## Within psychiatry
 - [[ASD]]
