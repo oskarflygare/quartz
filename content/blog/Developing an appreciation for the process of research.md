@@ -1,6 +1,6 @@
 ---
 created: 2023-08-24
-updated: 2023-09-04
+updated: 2023-09-13
 tags:
   - writing/blog
 draft: 
@@ -23,11 +23,11 @@ Reading gives me a sense of the field, where things are currently and where they
 
 I used to not enjoy it and see writing purely as a means to an end, but more recently I've come to appreciate writing itself. One annoying thing after reading articles with good writing is that your writing will never match those standards, but [[Persistent effort will lead you to do work in line with your taste]].
 ### Writing to sharpen my thinking
-Writing is the best way to put your thoughts to the test. What seemed brilliant and fully thought out in your head will fall apart once you put it in writing, and this is good!
+[[When you write about a subject you see your own gaps in knowledge]]. What seemed brilliant and fully thought out in your head will fall apart once you put it in writing, and this is good!
 ### Writing to generate ideas
 Writing is also what makes it possible to gain new insights and connect ideas to each other.
 ### Writing to convince and collaborate
-Writing is the way through which most collaboration happens. Being able to communicate well in text means more influence and success, most directly through a higher acceptance rate of your articles and grant proposals, but also in reducing the risk of being misunderstood by collaborators and slowing down a project's progress.
+Writing is the way through which most collaboration happens. Being able to communicate well in text means more influence and success, most directly through a higher acceptance rate of your articles and grant proposals, but also in reducing the risk of being misunderstood by collaborators and slowing down a project's progress. [[If you write simply you cannot hide lack of ideas behind complicated words]].
 ## Analyses
 The statistical analysis is the sharp tip of the empirical research process. It's what everything boils down to, where you get to see if the brilliant idea held up or not. Lack of time or expertise to do statistical analyses is also the most common bottleneck in my research environment, so it's a particularly valuable process to invest time in.
 
@@ -56,15 +56,17 @@ Having a habit of always creating things helps me reinforce what I just learned,
 ## Schedule for depth and stillness
 High-quality work in any of the [[core activities]] never happen in the midst of a frenzied workday, between email inboxes and meetings, at least not for me. I need to carve out chunks of time where I have a reasonable chance of making progress on difficult and complicated work.
 
-I try to schedule recurring time for writing and reading, because otherwise project-related tasks that seem urgent swamp my schedule. For me it's in the mornings 9-11. It doesn't sound like enough, but two good hours Monday-Friday will add up to a lot of writing and reading. This time is when I do my best cognitive work, and I protect it fiercely.
+I try to schedule recurring time for writing and reading, because otherwise project-related tasks that seem urgent swamp my schedule. For me it's in the mornings 9-11. It doesn't sound like enough, but two good hours Monday-Friday will add up to a lot of writing and reading. This time is when I do my best cognitive work, and I protect it fiercely to focus on [[Deep work]].
 
-It's also helpful because this means I restrict the time I work on a manuscript, for example. Rather than working 10 hours non-stop and then losing interest, I often stop despite having more ideas and things to say. I am then eager to get back into the groove tomorrow morning.
+It's also helpful because this means I restrict the time I work on a manuscript, for example. Rather than working 10 hours non-stop and then losing interest, I often stop despite having more ideas and things to say. I am then eager to get back into the groove tomorrow morning using the [[Pomodoro technique]].
 
 Analyses I can do anytime because I find those tasks more easy to get into no matter the time of day.
-## Explore/Exploit
+## [[Explore Exploit]]
 Explore early and try out many different parts and roles. Once you find what you enjoy, go **deep**. It's better to develop deep expertise in few areas than knowing a little bit of everything, at least in our context.
 
 ## Nurturing a vision
+Things in academia take time, so embrace [[Slow productivity]] rather than hectic day-to-day activity.
+
 - What sort of researcher would I like to become?
 	- Idea machine & study design
 	- Project management
