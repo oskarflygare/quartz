@@ -1,15 +1,11 @@
 ---
-category: "[[Clippings]]"
 author: "[[Steph Ango]]"
 title: Concise explanations accelerate progress
 source: https://stephanango.com/concise
-clipped: 2023-08-21
-published: 2023-08-20
-topics: null
 tags:
   - clippings
 created: 2023-08-21
-updated: 2023-08-31
+updated: 2023-09-13
 ---
 
 August 20, 2023 • 1 minute read

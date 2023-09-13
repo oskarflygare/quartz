@@ -1,13 +1,10 @@
 ---
-aliases: []
+aliases: 
 created: 2022-09-07
-updated: 2023-08-31
+updated: 2023-09-13
+tags:
+  - MOC
 ---
-
-#MOC 
-
-# Productivity
-Date created: 2021-11-01
 
 - [[Measure what is meaningful, not what is easy]]
 - [[Resolve to Live a Deep Life]]
@@ -57,6 +54,7 @@ Date created: 2021-11-01
 - [[Many commitments bring a fixed amount of overhead, so keep the number of commitments low]]
 	- [[Overhead spiral]]
 - [[Discipline can sometimes mean doing less, not just more]]
+	- [[Increasing focus in your work means choosing what not to do]]
 - [[Task selection is more important than trying to stay on top of everything]]
 
 # Cal Newport core ideas

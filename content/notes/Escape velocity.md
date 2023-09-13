@@ -1,12 +1,8 @@
 ---
 aliases: []
 created: 2022-09-07
-updated: 2023-09-01
+updated: 2023-09-12
 ---
-
-# Escape velocity
-Date created: 2022-04-19
-
 In Physics, escape velocity is the amount of speed needed to leave the gravitational influence of a celestial body.
 
 But I saw a really nice adaptation of the concept to personal economy from the *Humans of New York* photographer:

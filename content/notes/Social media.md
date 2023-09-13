@@ -1,7 +1,7 @@
 ---
 aliases: []
 created: 2022-11-04
-updated: 2023-08-31
+updated: 2023-09-13
 ---
 #MOC 
 
@@ -18,6 +18,7 @@ updated: 2023-08-31
 - [[Is internet addiction eradicating the habit of reading]]
 - [[Context shifting]]
 - [[A drawback of digital communication is that the messages never go away]]
+- [[One blind spot due to the design of Twitter is passive negative sentiment]]
 - [[The algorithmic feeds of today enhance trivial content that produces outrage and other strong reactions]]
 	- [[Outrage can be a way to enhance your prestige in a public forum]]
 	- [[When social media giants like Facebook and Twitter prioritize algorithmic feeds for distraction, they compete with all other forms of distraction]]

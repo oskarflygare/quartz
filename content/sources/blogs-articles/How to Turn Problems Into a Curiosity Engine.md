@@ -1,11 +1,10 @@
 ---
 title: How to Turn Problems Into a Curiosity Engine
-date: 2023-09-01
 author: Anne-Laure Le Cunff
 source: https://nesslabs.com/favorite-problems
 draft: false
 created: 2023-09-01
-updated: 2023-09-01
+updated: 2023-09-13
 ---
 # Key takeaways
 - [[Unsolved problems and questions can be viewed as sources of curiosity]]

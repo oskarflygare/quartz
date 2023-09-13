@@ -1,12 +1,8 @@
 ---
 aliases: []
 created: 2022-09-07
-updated: 2023-09-01
+updated: 2023-09-13
 ---
-
-# Deep work
-Date created: 2022-05-19
-
 It’s one of Cal Newport’s core ideas which has been very influential to me.
 
 # What is it?
