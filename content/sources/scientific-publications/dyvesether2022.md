@@ -20,7 +20,7 @@ updated: 2023-09-14
 
 ---
 # My notes
-- The median hospital cost per self-harm episode in Denmark is estimated to $2248 (IQR $1553 - $4138)
+- The median hospital cost per self-harm episode in Denmark is estimated to \$2248 (IQR \$1553 - \$4138)
 - High-volume repeaters (≥10 episodes) were 0.7% but accounted for 8.2% of somatic and 15.3% of total hospital costs
 - The length of inpatient psychiatric care was
 	- mean = 33.8 (SD = 81.7)
