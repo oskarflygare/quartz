@@ -1,10 +1,11 @@
 ---
 aliases:
   - "{% if shortTitle %} {{shortTitle | safe}} {% else %} {{title | safe}} {% endif %}"
-created: 
 tags:
   - article
 title: "{{title}}"
+created: 
+updated:
 ---
 
 ---

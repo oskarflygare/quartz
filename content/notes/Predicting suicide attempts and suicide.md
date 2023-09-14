@@ -1,7 +1,7 @@
 ---
 aliases: []
 created: 2023-07-10
-updated: 2023-09-01
+updated: 2023-09-14
 tags:
   - MOC
 ---
@@ -21,3 +21,7 @@ Predicting suicide attempts and [[Suicide]] is very difficult since they are rel
 [[fazel2023|Risk of death by suicide following self-harm presentations to healthcare]]
 
 ## Machine learning
+
+- [[su2023 1|Machine learning-based prediction for self-harm and suicide attempts in adolescents]]
+	- [[A random forest model achieved an AUC of 0.73 when predicting adolescent self-harm two years later]]
+	- [[Random forest prediction of suicide attempts in adolescents reached an AUC of 0.72]]

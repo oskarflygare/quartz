@@ -17,5 +17,6 @@ data %>%
     n = n(),
     error = qnorm(0.975) * sd / sqrt(n),
     lower_ci = mean - error,
-    upper_ci = mean + error
-  )```
+    upper_ci = mean + error)
+    ```
+
