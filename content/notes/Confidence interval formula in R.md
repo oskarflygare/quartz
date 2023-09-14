@@ -2,7 +2,7 @@
 aliases: 
 title: Confidence interval formula in R
 created: 2023-09-13
-updated: 2023-09-13
+updated: 2023-09-14
 tags:
   - R
   - tidyverse
@@ -18,5 +18,5 @@ data %>%
     error = qnorm(0.975) * sd / sqrt(n),
     lower_ci = mean - error,
     upper_ci = mean + error)
-    ```
+```
 
