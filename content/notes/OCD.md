@@ -4,14 +4,12 @@ aliases:
   - obsessive-compulsive disorder
   - obsessive compulsive disorder
 created: 2022-09-07
-updated: 2023-08-31
+updated: 2023-09-14
+tags:
+  - MOC
 ---
 
-#MOC 
-
-# OCD
-
-## Diagnostic features
+# Diagnostic features
 
 ## Prevalence, comorbidity, and natural course
 [[Fawcett2020 - Women are at greater risk of OCD than Men, A Meta-Analytic Review of OCD Prevalence Worldwide]]
@@ -36,7 +34,7 @@ Comorbidity rates of OCD and eating disorders are higher than what would be expe
 
 Symptoms of OCD and depression influence each other during treatment. - [[Simkin2022 - The relationship between symptoms of obsessive compulsive disorder and depression during therapy, A random intercept cross-lagged panel model]]
 
-## OCD during the COVID-19 pandemic
+# OCD during the COVID-19 pandemic
 
 [[Carmi2021 - Obsessive Compulsive Disorder During Coronavirus Disease 2019 (COVID-19), 2- and 6-month Follow-Ups in a Clinical Trial]]
 
@@ -44,9 +42,9 @@ Symptoms of OCD and depression influence each other during treatment. - [[Simkin
 
 During the first wave of the COVID-19 pandemic, over 50% of surveyed individuals in Italy reported clinically relevant levels of contamination obsessions and compulsions. - [[Pacitti2022 - Obsessive-compulsive symptoms among the general population during the first COVID-19 epidemic wave in Italy]]
 
-## Etiology and maintenance of OCD symptoms
+# Etiology and maintenance of OCD symptoms
 
-### Genetic
+## Genetic
 
 [[Mataix-Cols2013 - Population-Based, Multigenerational Family Clustering Study of Obsessive-Compulsive Disorder]]
 
@@ -68,7 +66,7 @@ Heritability OCD = 0.48 (95% CI 0.42 to 0.53). – [[Monzani2014 - The Structure
 
 The heritability of OCD has been estimated to 45-58% in large twin-studies. – [[Hudziak2004 - Genetic and Environmental Contributions to the Child Behavior ChecklistObsessive-Compulsive Scale, A Cross-cultural Twin Study]]
 
-### Neurobiology
+## Neurobiology
 
 [[Heuvel2020 - An overview of the first 5 years of the ENIGMA obsessive-compulsive disorder working group, The power of worldwide collaboration]]
 
@@ -78,7 +76,7 @@ The heritability of OCD has been estimated to 45-58% in large twin-studies. – 
 
 [[Richter2018 - Obsessive-Compulsive Disorder]]
 
-### Environmental risk factors
+## Environmental risk factors
 
 [[Yilmaz2022 - The role of early-life family composition and parental socio-economic status as risk factors for obsessive-compulsive disorder in a Danish national cohort]]
 
@@ -92,14 +90,14 @@ No association between cesarean delivery and OCD, and familial confounding expla
 
 Retrospective studies with potential recall bias, the role of stress and stressful life events is unclear - [[Raposo-Lima2020 - The Role of Stress in Obsessive-Compulsive Disorder, A Narrative Review]]
 
-### Animal models
+## Animal models
 
 [[Ahmari2013 - Repeated Corcico-Striatal Stimulation Generates Persistent OCD-Like Behavior]]
 [[Burguiere2013 - Optogenetic Stimulation of Lateral Orbitofronto-Striatal Pathway Suppresses Compulsive Behaviors]]
 [[Dangelo2014 - Animal models of obsessive-compulsive spectrum disorders]]
 [[Remier2017 - Fear extinction in an obsessive-compulsive disorder animal model - influence of sex and estrous cycle]]
 
-### Habit theory
+## Habit theory
 [[Dolan2013 - Goals and Habits in the Brain]]
 [[Dougherty2018 - Neuroscientifically Informed Formulation and Treatment Planning for Patients with Obsessive-Compulsive Disorder - A Review]]
 [[Gillan2014 - Goal-directed learning and obsessive-compulsive disorder]]
@@ -108,7 +106,7 @@ Retrospective studies with potential recall bias, the role of stress and stressf
 [[Voon2014 - Disorders of compulsivity - A common bias towards learning habits]]
 [[Voon2015 - Motivation and value influences in the relative balance of goal-directed and habitual behaviours in obsessive-compulsive disorder]]
 
-### Psychological explanations
+## Psychological explanations
 
 - Inflated personal responsibility and the overestimation of threat
 - Perfectionism and intolerance of uncertainty
@@ -124,32 +122,32 @@ Retrospective studies with potential recall bias, the role of stress and stressf
 [[Ren2021 - Executive Functioning in Chinese Patients With Obsessive Compulsive Disorder]]
 [[Radomsky2022 - Responsibility, probability, and severity of harm, An experimental investigation of cognitive factors associated with checking-related OCD]]
 
-### Network theory
+## Network theory
 
 [[Olatunji2019 - What is at the core of OCD, A network analysis of selected obsessive-compulsive symptoms and beliefs]]
 
 
-## Treatment of OCD
+# Treatment of OCD
 
-### Pharmacological treatments
+## Pharmacological treatments
 
 8 patients received Ketamine, 50% responded at 1-week follow-up - [[Rodriguez2013 - Randomized Controlled Crossover Trial of Ketamine in Obsessive-Compulsive Disorder, Proof-of-Concept]]
 
 Ketamine + 10 sessions EX/RP (n = 8), 63% responded - [[Rodriguez2016 - Can Exposure-Based CBT Extend IV Ketamine's Effects in Obsessive-Compulsive Disorder, An Open-Label Trial]]
 
-### Psychological treatments
+## Psychological treatments
 
 Mindfulness not better than control conditions on the Y-BOCS - [[Chien2022 - Is mindfulness-based intervention an effective treatment for people with obsessive-compulsive disorder, A systematic review and meta-analysis]]
 
 A recent study concluded that patients who benefit from ERP can safely discontinue medication with an SSRI with non-inferior outcomes compared to patients who continue their SSRI - [[Foa2022 - Maintenance of Wellness in Patients With Obsessive-Compulsive Disorder Who Discontinue Medication After Exposure Response Prevention Augmentation, A Randomized Clinical Trial]]
 
-#### ICBT
+### ICBT
 
 Improved adherence and trt completion with therapist-guidance: [[Musiat2022 - Impact of guidance on intervention adherence in computerised interventions for mental health problems, a meta-analysis]]
 
 ICBT RCT from Japan: [[Matsumoto2022 - Guided internet-based cognitive behavioral therapy for obsessive-compulsive disorder, A multicenter randomized controlled trial in Japan]]
 
-#### App and video treatment
+### App and video treatment
 
 In a large naturalistic sample (n = 3552), ERP delivered via video and supported by an app in between sessions resulted in large reductions on the dimensional Y-BOCS (*g* = 1.0 [95% CI 0.93 to 1.03]) [@feusner2022]: 
 [[Feusner2022 - Online Video Teletherapy Treatment of Obsessive-Compulsive Disorder Using Exposure and Response Prevention, Clinical Outcomes From a Retrospective Longitudinal Observational Study]]
@@ -158,18 +156,18 @@ In a large naturalistic sample (n = 3552), ERP delivered via video and supported
 
 [[Boisseau2017 - App-guided exposure and response prevention for obsessive compulsive disorder, an open pilot trial]]
 
-### Combination treatment
+## Combination treatment
 
 Foa2005
 
 EX/RP better than risperidone as augmentation of SRIs - [[Simpson2013 - Cognitive-Behavioral Therapy vs Risperidone for Augmenting Serotonin Reuptake Inhibitors in Obsessive-Compulsive Disorder, A Randomized Clinical Trial]]
 
-#### Cost-effectiveness
+### Cost-effectiveness
 
 - [[The average cost of providing ICBT for children and adolescents with OCD was $2140]] - [[aspvall2021]]
 - [[ICBT stepped-care for children and adolescents with OCD led to cost savings of $2104 compared to face-to-face CBT]] - [[aspvall2021]]
 
-#### OCD and ASD
+### OCD and ASD
 
 [[McDougle1995 - A case-controlled study of repetitive thoughts and behavior in adults with autistic disorder and obsessive-compulsive disorder]]
 
@@ -191,13 +189,13 @@ The initial results of an internet-delivered adapted CBT for OCD in youth with c
 
 [[Wakabayashi2012 - Do the traits of autism-spectrum overlap with those of schizophrenia or obsessive-compulsive disorder in the general population]]
 
-## Current issues in the treatment of OCD
+# Current issues in the treatment of OCD
 
-## Measurement
+# Measurement
 
 [[Mataix-Cols2016 - Towards an international expert consensus for defining treatment response, remission, recovery and relapse in obsessive-compulsive disorder]]
 
-### OCI-R
+## OCI-R
 
 [[Abramovitch2020 - Severity benchmarks and contemporary clinical norms for the Obsessive-Compulsive Inventory-Revised (OCI-R)]]
 
@@ -213,7 +211,7 @@ The initial results of an internet-delivered adapted CBT for OCD in youth with c
 
 A shorter version of the OCI-R, the OCI-12, excludes the hoarding and neutralizing subscales and has similar psychometric properties compared to the full OCI-R scale [@abramovitch2021a] : [[Abramovitch2021 - The OCI-12, A syndromally valid modification of the obsessive-compulsive inventory-revised]]
 
-### YBOCS
+## YBOCS
 
 Original paper for YBOCS. interrater reliability *r* = 0.98, Cronbach's alpha = 0.89 
 [[Goodman1989 - The Yale-Brown Obsessive Compulsive Scale]]
