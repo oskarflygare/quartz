@@ -2,11 +2,11 @@
 aliases: []
 title: Resilience
 created: 2023-09-12
-updated: 2023-09-12
+updated: 2023-09-15
 tags:
   - MOC
 ---
-Resilience can be studied within psychology, but it's also a common topic in ecology and other disciplines. Sometimes within the framework of complex systems theory. I've started to read articles within this are in order to explore avenues for [[Cross-pollination]]. Some related ideas come up in [[Network theory of psychopathology]], such as [[Tipping point]] and [[early warning sign]].
+Resilience can be studied within psychology, but it's also a common topic in ecology and other disciplines. Sometimes within the framework of complex systems theory. I've started to read articles within this area in order to explore avenues for [[Cross-pollination]]. Some related ideas come up in [[Network theory of psychopathology]], such as [[Tipping point]] and [[early warning sign]].
 
 # TODO
 - Elmqvist, T., Folke, C., Nyström, M., Peterson, G., Bengtsson, J., Walker, B., & Norberg, J. (2003). Response diversity, ecosystem change, and resilience. _Frontiers in Ecology and the Environment_, _1_(9), 488–494. [https://doi.org/10.1890/1540-9295(2003)001[0488:RDECAR]2.0.CO;2](https://doi.org/10.1890/1540-9295(2003)001[0488:RDECAR]2.0.CO;2)

@@ -4,12 +4,8 @@ aliases:
   - early-warning sign
   - early-warning signal
 created: 2022-12-09
-updated: 2023-09-01
+updated: 2023-09-15
 ---
-
-# Early warning sign / Early warning signal
-Date created: 2022-12-09
-
 > An early-warning signal is a within-system change in dynamics (indicative of critical fluctuations and/or critical slowing down) that is predictive of a phase transition.
 
 The system has rising instability which precedes a [[Tipping point]].

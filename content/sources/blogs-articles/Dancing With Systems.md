@@ -1,19 +1,15 @@
 ---
 created: 2022-11-11
-updated: 2023-08-31
+updated: 2023-09-15
+tags:
+  - articles
+  - read2022
+author: Donella Meadows
+source: http://donellameadows.org/archives/dancing-with-systems/
 ---
-# Dancing With Systems
-
-## Metadata
-- Author: Kindle Loomis
-- Full Title: Dancing With Systems
-- Category: #articles
-- Date read: 2022-11-11
-- URL: http://donellameadows.org/archives/dancing-with-systems/
 # Key takeaways
 - [[Having multiple perspectives and possible explanations means you are not bound to a specific model]]
 
----
 
 ## Highlights
 - The goal of foreseeing the future exactly and preparing for it perfectly is unrealizable. The idea of making a complex system do just what you want it to do can be achieved only temporarily, at best. We can never fully understand our world, not in the way our reductionistic science has led us to expect.

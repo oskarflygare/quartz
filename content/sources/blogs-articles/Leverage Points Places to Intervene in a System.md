@@ -1,15 +1,11 @@
 ---
 created: 2022-10-24
-updated: 2023-08-31
+updated: 2023-09-15
+author: Donella Meadows
+tags:
+  - articles
+source: https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/
 ---
-# Leverage Points: Places to Intervene in a System
-
-## Metadata
-- Author: Donella Meadows
-- Full Title: Leverage Points: Places to Intervene in a System
-- Category: #articles
-- Date read: 2022-10-24
-- URL: https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/
 # Key takeaways
 - 
 

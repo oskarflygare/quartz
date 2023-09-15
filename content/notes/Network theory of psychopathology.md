@@ -1,14 +1,10 @@
 ---
-aliases: []
+aliases: 
 created: 2022-09-07
-updated: 2023-08-31
+updated: 2023-09-15
+tags:
+  - MOC
 ---
-
-#MOC 
-
-# Network theory of psychopathology
-Date created: 2021-10-26
-
 Great review article: [[Robinaugh2020 - The network approach to psychopathology, a review of the literature 2008-2018 and an agenda for future research]]
 
 Overview of the Dutch project *New Science of Mental Disorders*: [[Roefs2022 - A new science of mental disorders, Using personalised, transdiagnostic, dynamical systems to understand, model, diagnose and treat psychopathology]]

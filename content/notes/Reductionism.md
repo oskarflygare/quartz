@@ -1,11 +1,8 @@
 ---
 aliases: []
 created: 2022-09-07
-updated: 2023-09-01
+updated: 2023-09-15
 ---
-
-# Reductionism
-Date created: 2022-05-19
 
 > Reductionism is any of several related philosophical ideas regarding the associations between phenomena, which can be described in terms of other simpler or more fundamental phenomena. It is also described as an intellectual and philosophical position that interprets a complex system as the sum of its parts.
 

@@ -1,12 +1,11 @@
 ---
 created: 2022-09-07
-updated: 2023-08-31
+updated: 2023-09-15
+tags:
+  - article
+  - read2022
 ---
-# Scheffer2012 - Anticipating Critical Transitions
 
-* Type: #article
-* Year read: #read2022
-* Subject: [[Network theory]]
 * Bibtex: @scheffer2012
 * Bibliography: Scheffer, M., Carpenter, S. R., Lenton, T. M., Bascompte, J., Brock, W., Dakos, V., van de Koppel, J., van de Leemput, I. A., Levin, S. A., van Nes, E. H., Pascual, M., & Vandermeer, J. (2012). Anticipating Critical Transitions. _Science_, _338_(6105), 344–348. [https://doi.org/10.1126/science.1225244](https://doi.org/10.1126/science.1225244)
 ---
@@ -14,7 +13,7 @@ updated: 2023-08-31
 
 
 # Key takeaways
-* If we are better able to identify and understand tipping points in complex systems, we can use them to induce positive change and prevent collapses of the systems we study.
+* If we are better able to identify and understand tipping points in [[Complex systems]], we can use them to induce positive change and prevent collapses of the systems we study.
 * Combining research that tries to understand the architecture of tipping points in complex systems, with indicators that rapid change is underway (early warning signs or [[Canary in a coal mine]])
 * [[Tipping point]]
 
@@ -28,7 +27,7 @@ How does a system respond to changing conditions and external events? The hetero
 
 ![[Screenshot 2022-05-11 at 14.55.05.png]]
 
-## Critical slowing down as an indicator of lower resilience
+## Critical slowing down as an indicator of lower [[resilience]]
 
 [[Critical slowing down]] occurs when a system recovers more slowly from small stressors. It has been shown to be an indicator that systems change is coming in multiple fields.
 
@@ -36,4 +35,4 @@ How does a system respond to changing conditions and external events? The hetero
 
 ## Future directions
 
-Most research to date has been in ecology and climate science, but perhaps there are generic indicators that can be applied to other types of systems as well (such as [[Network theory of psychopathology]]).
+Most research to date has been in ecology and climate science, but perhaps there are generic indicators that can be applied to other types of systems as well.

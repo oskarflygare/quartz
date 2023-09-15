@@ -1,12 +1,10 @@
 ---
 created: 2022-09-07
-updated: 2023-08-31
+updated: 2023-09-15
+tags:
+  - article
+  - read2022
 ---
-# Lempuut2014 - Critical slowing down as early warning for the onset and termination of depression
-
-* Type: #article
-* Year read: #read2022
-* Subject: [[Network theory]]
 * Bibtex: @vandelempuut2014
 * Bibliography: van de Leemput, I. A., Wichers, M., Cramer, A. O. J., Borsboom, D., Tuerlinckx, F., Kuppens, P., van Nes, E. H., Viechtbauer, W., Giltay, E. J., Aggen, S. H., Derom, C., Jacobs, N., Kendler, K. S., van der Maas, H. L. J., Neale, M. C., Peeters, F., Thiery, E., Zachar, P., & Scheffer, M. (2014). Critical slowing down as early warning for the onset and termination of depression. _Proceedings of the National Academy of Sciences_, _111_(1), 87–92. [https://doi.org/10.1073/pnas.1312114110](https://doi.org/10.1073/pnas.1312114110)
 ---

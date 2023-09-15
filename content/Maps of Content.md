@@ -1,7 +1,7 @@
 ---
 aliases: []
 created: 2023-09-01
-updated: 2023-09-12
+updated: 2023-09-15
 tags:
   - MOC
 ---
@@ -24,11 +24,14 @@ More or less structured summary-notes relating to an area I am interested in.
 - [[Mental models]]
 - [[Writing]]
 - [[Books]]
-- [[Resilience]]
 
 ## Within psychiatry
+
+### Diagnoses and problem areas
 - [[ASD]]
 - [[BDD]]
-- [[Network theory of psychopathology]]
 - [[OCD]]
 - [[Suicide]]
+### New ways of thinking in psychiatry
+- [[Network theory of psychopathology]]
+- [[Complex systems]]
