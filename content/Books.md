@@ -1,12 +1,10 @@
 ---
 created: 2022-01-10
-updated: 2023-09-01
+updated: 2023-09-15
 tags:
   - MOC
 ---
-Books I've read. I rate them on Goodreads.com as well, but here are notes on them.
-
-Books I want to read are stored in [[Reading list]]
+Books I've read. I rate them on [Goodreads](https://www.goodreads.com/review/list/47818857?shelf=read) as well, but here are notes on them. Books I want to read are stored in [[Reading list]].
 
 # 2023
 - [[Rethinking Suicide]], Craig Bryan
@@ -17,6 +15,7 @@ Books I want to read are stored in [[Reading list]]
 - [[The Unbearable Lightness of Being]], Milan Kundera
 - [[On Writing]], Stephen King
 - [[Detaljerna]], Ia Genberg
+- [[Open Water]], Caleb Azumah Nelson
 
 # 2022
 - [[Löpa varg]], Kerstin Ekman
@@ -71,4 +70,3 @@ Never finished [[Behave]]
 [[The War of Art]]
 [[Think Small]]
 
-See [Goodreads](https://www.goodreads.com/review/list/47818857?shelf=read)
