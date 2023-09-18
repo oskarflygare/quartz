@@ -1,6 +1,6 @@
 ---
 created: 2023-07-21
-updated: 2023-09-13
+updated: 2023-09-18
 tags:
   - writing/blog
 draft: 
@@ -13,7 +13,7 @@ In his recent essay [How To Do Great Work](http://www.paulgraham.com/greatwork.h
 
 > One sign that you're suited for some kind of work is when you like even the parts that other people find tedious or frightening.
 
-[[Like scales in music, the core activities at work appear in most projects]]. Scales are never the "end product" of a musical piece, but they are helpful to practice because they appear in one shape or another in all songs. Those who cultivate an appreciation for practicing scales will find themselves developing their skills playing an instrument.
+[[Like scales in music, the core activities at work appear in most projects]]. Scales are never the "end product" of a musical piece, but they are helpful to practice because they appear in one shape or another in all songs. Those who cultivate an appreciation for practicing scales will find themselves developing their skills playing an instrument. [[Most core activities in knowledge work are done ad-hoc]], so imagine the value gain of investing time to practice them.
 
 However, lean too far into this and you might end up producing niche things that nobody outside your small field finds valuable, as discussed [here](https://www.briantimar.com/notes/mimetic/mimetic): 
 

@@ -1,6 +1,6 @@
 ---
 created: 2021-08-13
-updated: 2023-09-04
+updated: 2023-09-18
 ---
 
 # Want to read: fiction
@@ -13,6 +13,7 @@ https://www.theguardian.com/books/2019/sep/21/best-books-of-the-21st-century
 - [ ] John Ajvide Lindqvist - [Sommaren 1985](https://www.dn.se/kultur/john-ajvide-lindqvists-nya-roman-ar-en-av-hans-allra-basta/)
 
 # Want to read: non-fiction
+- [ ] Hamming - The Art of Doing Science and Engineering [PDF](http://worrydream.com/refs/Hamming-TheArtOfDoingScienceAndEngineering.pdf)
 - [x] Diamant Salihu - Tills alla dör ✅ 2022-08-04
 - [x] What we owe the future - William MacAskill ✅ 2022-09-01
 - [ ] Margaret Battin - [The Ehics of Suicide: Historical Sources](https://www.amazon.com/Ethics-Suicide-Historical-Sources-ebook/dp/B014OJCHYE/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1675340885&sr=1-1)

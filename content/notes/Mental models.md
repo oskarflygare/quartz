@@ -2,7 +2,7 @@
 aliases:
   - Mental model
 created: 2022-09-07
-updated: 2023-09-12
+updated: 2023-09-18
 tags:
   - MOC
 ---
@@ -11,117 +11,115 @@ Mental models are useful tools for thinking because they let us identify the str
 # Categories
 
 ## Management
-[[Theory of constraints]]
-[[Parkinson's Law]]
+- [[Theory of constraints]]
+- [[Parkinson's Law]]
 
 ## Physics
-Critical Mass
-Leverage
-[[Inertia]]
-Half-life
-Activation Energy
-[[Escape velocity]]
-[[Tipping point]]
+- Critical Mass
+- Leverage
+- [[Inertia]]
+- Half-life
+- Activation Energy
+- [[Escape velocity]]
+- [[Tipping point]]
 
 ## Chemistry
-[[Steady state]]
+- [[Steady state]]
 
 ## Economics
-[[Compound growth]]
-[[Marginal gains in many aspects can have a big impact]]
-[[Discounting]]
-[[Opportunity cost]]
-[[Diminishing returns]]
-[[Double debt]]
+- [[Compound growth]]
+- [[Marginal gains in many aspects can have a big impact]]
+- [[Discounting]]
+- [[Opportunity cost]]
+- [[Diminishing returns]]
+- [[Double debt]]
 
 ## Politics
-[[Gerrymandering]]
-[[Overton window]]
-[[Pied Piper]]
-[[Veil of Ignorance]]
-[[Divide and conquer]]
-[[Once voters are engaged with one question, political operatives can turn their attention to other issues]]
-[[Cultural capital]]
-[[Shibboleth]]
+- [[Gerrymandering]]
+- [[Overton window]]
+- [[Pied Piper]]
+- [[Veil of Ignorance]]
+- [[Divide and conquer]]
+- [[Once voters are engaged with one question, political operatives can turn their attention to other issues]]
+- [[Cultural capital]]
+- [[Shibboleth]]
 
 ## History
-[[Great man theory]]
+- [[Great man theory]]
 
 ## Biology
-[[Murmuration]]
-[[Homeostasis]]
-[[Pruning]]
-[[Subgoal]]
-[[Response diversity]]
-[[Resilience]]
-
-## Botany
-[[Cross-pollination]]
+- [[Murmuration]]
+- [[Homeostasis]]
+- [[Pruning]]
+- [[Subgoal]]
+- [[Response diversity]]
+- [[Resilience]]
+- [[Cross-pollination]]
 
 ## Design
-[[The shortest or most convenient path is not always the one designed]]
-[[Hype cycle]]
-[[Lindy Effect]]
-[[Complicated systems have high maintenance costs]]
+- [[The shortest or most convenient path is not always the one designed]]
+- [[Hype cycle]]
+- [[Lindy Effect]]
+- [[Complicated systems have high maintenance costs]]
 
 ## Psychology
-[[Information inoculation]]
-[[Thought-action fusion]]
-[[Bandwagon fallacy]]
-[[Confirmation bias]]
-[[Information inoculation]]
-[[Hedonistic adaptation]]
-[[Peak-end rule]]
-[[Ulysses pact]]
-[[Appeal to nature]]
+- [[Information inoculation]]
+- [[Thought-action fusion]]
+- [[Bandwagon fallacy]]
+- [[Confirmation bias]]
+- [[Information inoculation]]
+- [[Hedonistic adaptation]]
+- [[Peak-end rule]]
+- [[Ulysses pact]]
+- [[Appeal to nature]]
 
 ## Medicine
-[[Symptom pool]]
-[[Equifinality]]
-[[Equipotentiality]]
-[[Germ theory of disease]]
-[[nosocomial]]
+- [[Symptom pool]]
+- [[Equifinality]]
+- [[Equipotentiality]]
+- [[Germ theory of disease]]
+- [[nosocomial]]
 
 ## Explaning
-[[Occam's razor]]
-[[First-principles thinking]]
-[[The Five Whys - Root Cause|the five whys]]
-[[Canary in a coal mine]]
-[[Faustian Bargain]]
-[[Hanlon's razor]]
-[[Reductionism]]
+- [[Occam's razor]]
+- [[First-principles thinking]]
+- [[The Five Whys - Root Cause|the five whys]]
+- [[Canary in a coal mine]]
+- [[Faustian Bargain]]
+- [[Hanlon's razor]]
+- [[Reductionism]]
 
 ## Modeling
-[[Pareto Principle]]
-[[Face validity]]
-[[Predictive validity]]
-[[Overfitting]]
-[[Baye's Rule]]
-[[Selection bias]]
-[[Sampling]]
-[[Data spending]] & [[Data splitting]] / [[Data leakage]]
-Normal Distribution
-Sensitivity Analysis
-Cost-benefit Analysis
-Though Experiment
+- [[Pareto Principle]]
+- [[Face validity]]
+- [[Predictive validity]]
+- [[Overfitting]]
+- [[Baye's Rule]]
+- [[Selection bias]]
+- [[Sampling]]
+- [[Data spending]] & [[Data splitting]] / [[Data leakage]]
+- Normal Distribution
+- Sensitivity Analysis
+- Cost-benefit Analysis
+- Though Experiment
 
 ## Computer science
-[[Sorting]]
-[[Caching]]
-[[Scheduling]]
-[[Thrashing]]
-[[Computer science problems concern tradeoffs between space, time and certainty]]
+- [[Sorting]]
+- [[Caching]]
+- [[Scheduling]]
+- [[Thrashing]]
+- [[Computer science problems concern tradeoffs between space, time and certainty]]
 
 ## Decision-making
-[[Regret minimisation]]
-[[Eisenhower Matrix]]
-[[One Level Higher]]
-[[A-B testing]]
-[[Explore Exploit]]
-[[Optimal stopping]]
-[[The Hamming question]]
-[[The Information Action Ratio]]
-[[Preserving optionality]]
+- [[Regret minimisation]]
+- [[Eisenhower Matrix]]
+- [[One Level Higher]]
+- [[A-B testing]]
+- [[Explore Exploit]]
+- [[Optimal stopping]]
+- [[The Hamming question]]
+- [[The Information Action Ratio]]
+- [[Preserving optionality]]
 
 # Putting mental models to use
 
