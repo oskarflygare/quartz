@@ -1,11 +1,13 @@
 ---
-aliases: []
+aliases: 
 created: 2023-07-10
-updated: 2023-09-14
+updated: 2023-09-18
 tags:
   - MOC
 ---
 Predicting suicide attempts and [[Suicide]] is very difficult since they are relatively rare events. The majority of individuals with suicidal ideation will not make an attempt and the majority of individuals who make attempts will not die by suicide.
+
+This presents challenges when predicting these outcomes. Scales and algorithms will often have low positive predictive value; most individuals identified as high risk will not go on to make a suicide attempt or die by suicide. A choice needs to be made between sensitivity and specificity.
 
 # Approaches
 

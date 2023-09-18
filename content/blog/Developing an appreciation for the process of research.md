@@ -1,6 +1,6 @@
 ---
 created: 2023-08-24
-updated: 2023-09-13
+updated: 2023-09-18
 tags:
   - writing/blog
 draft: 
@@ -56,7 +56,7 @@ Having a habit of always creating things helps me reinforce what I just learned,
 ## Schedule for depth and stillness
 High-quality work in any of the [[core activities]] never happen in the midst of a frenzied workday, between email inboxes and meetings, at least not for me. I need to carve out chunks of time where I have a reasonable chance of making progress on difficult and complicated work.
 
-I try to schedule recurring time for writing and reading, because otherwise project-related tasks that seem urgent swamp my schedule. For me it's in the mornings 9-11. It doesn't sound like enough, but two good hours Monday-Friday will add up to a lot of writing and reading. This time is when I do my best cognitive work, and I protect it fiercely to focus on [[Deep work]].
+[[You need space and calm to play with ideas]], otherwise project-related tasks that seem urgent swamp my schedule. For me it's in the mornings 9-11. It doesn't sound like enough, but two good hours Monday-Friday will add up to a lot of writing and reading. This time is when I do my best cognitive work, and I protect it fiercely to focus on [[Deep work]].
 
 It's also helpful because this means I restrict the time I work on a manuscript, for example. Rather than working 10 hours non-stop and then losing interest, I often stop despite having more ideas and things to say. I am then eager to get back into the groove tomorrow morning using the [[Pomodoro technique]].
 

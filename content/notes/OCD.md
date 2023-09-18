@@ -4,7 +4,7 @@ aliases:
   - obsessive-compulsive disorder
   - obsessive compulsive disorder
 created: 2022-09-07
-updated: 2023-09-14
+updated: 2023-09-18
 tags:
   - MOC
 ---
@@ -126,6 +126,10 @@ Retrospective studies with potential recall bias, the role of stress and stressf
 
 [[Olatunji2019 - What is at the core of OCD, A network analysis of selected obsessive-compulsive symptoms and beliefs]]
 
+## Computational model
+- A bayesian analysis of compulsions that aims to connect the habit theory and harm reduction models - [[fradkin2023|How computational psychiatry can advance the understanding and treatment of obsessive-compulsive disorder]].
+
+> Compulsions can be both attempts to reduce overestimated threat, and expressions of inflexible habits. Both proximal causes stem from the same core impairment (unreliable predictive models) and differentiating them becomes a question of context (e.g., some contexts encourage habit formation more than others), rather than a theoretical stance.
 
 # Treatment of OCD
 
