@@ -1,6 +1,6 @@
 ---
 created: 2023-01-10
-updated: 2023-09-14
+updated: 2023-09-18
 tags:
   - MOC
 ---
@@ -14,6 +14,7 @@ tags:
 ## Epidemiology
 
 - [[There are about 700 000 deaths by suicide in the world each year]]
+	- [[India and China alone account for 42% of all suicide deaths]]
 	- In Sweden there are [approximately 1200 deaths annually](https://www.folkhalsomyndigheten.se/livsvillkor-levnadsvanor/psykisk-halsa-och-suicidprevention/att-forebygga-suicid/statistik-om-suicid/), and another 300 where suicide is suspected but the intention has not been verified.
 	- [[More than one in 100 deaths globally are the result of suicide]]
 	- [[20% of youth have experienced suicidal ideation, and 7% have made a suicide attempt]]
