@@ -1,12 +1,10 @@
 ---
 created: 2022-12-12
-updated: 2023-08-31
+updated: 2023-09-19
+tags:
+  - article
 ---
-# Olthof2020 - Critical Fluctuations as an Early-Warning Signal for Sudden Gains and Losses in Patients Receiving Psychotherapy for Mood Disorders
 
-* Type: #article
-* Date read: 2022-12-12
-* Subject: (in brackets, can also bracket keywords in text)
 * Bibtex: @olthof2020
 * Bibliography: Olthof, M., Hasselman, F., Strunk, G., van Rooij, M., Aas, B., Helmich, M. A., Schiepek, G., & Lichtwarck-Aschoff, A. (2020). Critical Fluctuations as an Early-Warning Signal for Sudden Gains and Losses in Patients Receiving Psychotherapy for Mood Disorders. _Clinical Psychological Science_, _8_(1), 25–35. [https://doi.org/10.1177/2167702619865969](https://doi.org/10.1177/2167702619865969)
 ---

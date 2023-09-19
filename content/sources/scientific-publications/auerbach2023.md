@@ -1,15 +1,12 @@
 ---
-alias:
-  - Intensive Longitudinal Assessment of Adolescents to Predict Suicidal
-    Thoughts and Behaviors
+aliases:
+  - Intensive Longitudinal Assessment of Adolescents to Predict Suicidal Thoughts and Behaviors
 created: 2023-05-16
-updated: 2023-08-31
+updated: 2023-09-19
+tags:
+  - article
 ---
 
-# Intensive Longitudinal Assessment of Adolescents to Predict Suicidal Thoughts and Behaviors
-
-- Type : #article 
-- Date read: 2023-05-16
 - Bibtex: @auerbach2023
 - Bibliography: Auerbach, R. P., Lan, R., Galfalvy, H., Alqueza, K. L., Cohn, J. F., Crowley, R. N., Durham, K., Joyce, K. J., Kahn, L. E., Kamath, R. A., Morency, L.-P., Porta, G., Srinivasan, A., Zelazny, J., Brent, D. A., & Allen, N. B. (2023). Intensive Longitudinal Assessment of Adolescents to Predict Suicidal Thoughts and Behaviors. _Journal of the American Academy of Child and Adolescent Psychiatry_, S0890-8567(23)00241-1. [https://doi.org/10.1016/j.jaac.2023.03.018](https://doi.org/10.1016/j.jaac.2023.03.018)
 

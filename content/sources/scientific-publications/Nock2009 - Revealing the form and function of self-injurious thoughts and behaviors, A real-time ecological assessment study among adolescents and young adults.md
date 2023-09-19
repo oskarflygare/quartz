@@ -1,6 +1,6 @@
 ---
 created: 2023-02-15
-updated: 2023-09-12
+updated: 2023-09-19
 tags:
   - article
 ---
@@ -18,7 +18,7 @@ tags:
 * Self-destructive behaviors: suicide attempt, NSSI, alcohol use, substance use, bingeing, purging, unsafe sex, impulsive spending, etc.
 * Function of NSSI was most often negative reinforcement to escape anxiety/sadness/anger.
 	* Intrapersonal-negative reinforcement (65%)
-	* Intrapersonal-positivt (25%)
+	* Intrapersonal-positive (25%)
 	* Interpersonal-negative (15%)
 	* Interpersonal-positive (4%)
 

@@ -1,10 +1,9 @@
 ---
 created: 2023-03-01
-updated: 2023-09-01
+updated: 2023-09-19
+tags:
+  - article
 ---
-* Type: #article
-* Date read: 2023-03-01
-* Subject: [[Suicide]]
 * Bibtex: @bryan2018
 * Bibliography: Bryan, C. J., & Rudd, M. D. (2018). Nonlinear Change Processes During Psychotherapy Characterize Patients Who Have Made Multiple Suicide Attempts. _Suicide and Life-Threatening Behavior_, _48_(4), 386–400. [https://doi.org/10.1111/sltb.12361](https://doi.org/10.1111/sltb.12361)
 ---
@@ -16,7 +15,7 @@ updated: 2023-09-01
 * n = 76 (active duty US army soldiers)
 * Participants received brief CBT for acute suicide risk
 * Multiple attempters (42.1%) / first-time attempters (43.4%) / ideators (14.5%)
-* They used *only* item 9 from the BDI to assess suicide ideation.
+* They used *only* item 9 from the BDI to assess [[suicide]] ideation.
 * Multiple attempters showed more of a *cusp catastrophe* pattern than did first-time attempters or ideators, but it's not as clear as Figure 2.
 * A cusp catastrophe strucutre is found when a cubic effect is significant, and a significant *bifurcation* parameter in the model, both of which should contribute beyond a linear/quadratic model fit.
 

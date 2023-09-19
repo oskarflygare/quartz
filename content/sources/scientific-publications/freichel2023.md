@@ -1,11 +1,11 @@
 ---
-alias:
+aliases:
   - Suicidality and mood
 created: 2023-06-08
-updated: 2023-09-01
+updated: 2023-09-19
+tags:
+  - article
 ---
-- Type : #article 
-- Date read: 2023-06-08
 - Bibtex: @freichel2023
 - Bibliography: Freichel, R., & O’Shea, B. A. (2023). Suicidality and mood: The impact of trends, seasons, day of the week, and time of day on explicit and implicit cognitions among an online community sample. _Translational Psychiatry_, _13_(1), Article 1. [https://doi.org/10.1038/s41398-023-02434-1](https://doi.org/10.1038/s41398-023-02434-1)
 
