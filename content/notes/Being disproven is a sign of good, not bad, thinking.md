@@ -2,11 +2,11 @@
 aliases: []
 title: Being disproven is a sign of good, not bad, thinking
 created: 2023-09-01
-updated: 2023-09-13
+updated: 2023-09-19
 ---
 It means you have been specific enough to clearly state an idea.
 
-[[It's way more important and rewarding to understand than to be right]]
+[[It's more important to understand than to be right]]
 
 ---
 # References

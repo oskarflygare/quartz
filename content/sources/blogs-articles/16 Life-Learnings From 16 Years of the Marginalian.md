@@ -1,11 +1,11 @@
 ---
 created: 2023-08-22
-updated: 2023-09-13
+updated: 2023-09-19
 source: https://www.themarginalian.org/2022/10/23/16-learnings/
 author: Maria Popova
 ---
 # Key takeaways
-- [[It's way more important and rewarding to understand than to be right]]
+- [[It's more important to understand than to be right]]
 - [[Being disproven is a sign of good, not bad, thinking]]
 
 ---

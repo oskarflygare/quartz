@@ -1,6 +1,6 @@
 ---
 created: 2023-08-22
-updated: 2023-09-13
+updated: 2023-09-19
 tags:
   - writing/blog
 draft: 
@@ -9,7 +9,7 @@ Admitting to being wrong is rarely, if ever, rewarded in the public sphere. It c
 
 [[Being disproven is a sign of good, not bad, thinking]]. If you strive to be ruthless towards your beliefs and opinions about the world, you will get into the habit of expressing your ideas in a specific enough way for them to be disproven or corrected. This will sharpen your ideas over time, improving what's of high quality and discarding what turns out to be less useful.
 
-Scientists are expected to produce specific and falsifiable hypotheses, and design studies that can readily disprove them. But too often we cling to our beliefs despite evidence against them, rather than updating our worldview and moving on to greener pastures. [[It's way more important and rewarding to understand than to be right]].
+Scientists are expected to produce specific and falsifiable hypotheses, and design studies that can readily disprove them. But too often we cling to our beliefs despite evidence against them, rather than updating our worldview and moving on to greener pastures. [[It's more important to understand than to be right]].
 
 From a [lecture by Nobel laureate Daniel Kahneman](https://www.edge.org/adversarial-collaboration-daniel-kahneman):
 
