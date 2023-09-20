@@ -1,13 +1,10 @@
 ---
-aliases: []
-created: 2022-09-07
-updated: 2023-08-31
+aliases: 
+created: 2021-10-05
+updated: 2023-09-20
+tags:
+  - MOC
 ---
-
-#MOC
-
-# Writing
-Date created: 2021-10-05
 
 - [[If you write simply you cannot hide lack of ideas behind complicated words]]
 	- [[Concise explanations spread faster because they are easier to read and understand.]]
@@ -32,6 +29,8 @@ Date created: 2021-10-05
 - [[To create great creative work, focus on process rather than output]]
 - [[Writer's block means that you dont have enough material to work with]]
 - [[Use yourself as a proxy when writing. What you find interesting and weird will likely be entertaining to others too.]]
+- [[Good writing has a ruthless focus on one specific purpose]]
+- [[Apply Occam's razor in writing]]
 
 ## References
 

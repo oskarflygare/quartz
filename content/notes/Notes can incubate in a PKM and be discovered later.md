@@ -1,11 +1,8 @@
 ---
 aliases: []
 created: 2022-09-07
-updated: 2023-09-01
+updated: 2023-09-20
 ---
-
-# Notes can incubate in a PKM and be discovered later
-Date created: 2022-07-06
 
 Because the ideas are not gone, [[The value of a linked database of notes builds up over time]] and there are more possible links for your new notes.
 

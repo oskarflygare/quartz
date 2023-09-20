@@ -1,7 +1,7 @@
 ---
 aliases: []
 created: 2022-11-04
-updated: 2023-09-13
+updated: 2023-09-20
 ---
 #MOC 
 
@@ -16,6 +16,7 @@ updated: 2023-09-13
 - [[Your attention didn't collapse. It was stolen]]
 - [[In the day of the postman]]
 - [[Is internet addiction eradicating the habit of reading]]
+	- [[Quiet and stillness was rare before smartphones and social media]]
 - [[Context shifting]]
 - [[A drawback of digital communication is that the messages never go away]]
 - [[One blind spot due to the design of Twitter is passive negative sentiment]]

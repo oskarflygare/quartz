@@ -1,11 +1,8 @@
 ---
 aliases: []
 created: 2022-09-07
-updated: 2023-09-01
+updated: 2023-09-20
 ---
-
-# Productive meditation
-Date created: 2021-08-18
 
 It's a term coined by Cal Newport in his book [[Deep work]], where you think of a problem you are currently working on while doing something that does not occupy your mind. It can be during a walk, swim, run, hike, etc.
 

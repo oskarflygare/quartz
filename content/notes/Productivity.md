@@ -1,7 +1,7 @@
 ---
 aliases: 
 created: 2022-09-07
-updated: 2023-09-13
+updated: 2023-09-20
 tags:
   - MOC
 ---
@@ -42,6 +42,7 @@ tags:
 
 - [[First-principles thinking]]
 - [[The Hamming question]]
+	- [[Doing important work starts with working on important problems]]
 	- [[Keep a list of important problems and test new ideas against them]]
 	- [[You can increase the surface area for luck by cultivating your curiosity]]
 - [[Working on the right question means aiming at the core of a problem]]
