@@ -1,7 +1,7 @@
 ---
 aliases: []
 created: 2022-09-07
-updated: 2023-09-01
+updated: 2023-09-21
 tags:
   - MOC
 ---
@@ -29,13 +29,11 @@ Formal theories help specify critical aspects of our verbal theories. With bette
 
 Diagnosis of psychiatric disorders relies on phenomenology in the current DSM and ICD systems, but the categories are likely not discrete but rather represent underlying continuous traits where thresholds are needed to distinguish ill from well [@hyman2021] : [[Hyman2021 - Psychiatric disorders, grounded in human biology but not natural kinds]]
 
-
 Symptom reduction for specific mental disorders as classified in the DSM and ICD systems have been the dominant therapy target, but other types of outcomes (for example, quality of life, mechanisms of action, economic outcomes) should be considered [@cuijpers2019] : [[Cuijpers2019 - Targets and outcomes of psychotherapies for mental disorders, an overview]]
 
 [[Borsboom2018 - Brain disorders Not really Why network structures]]
 
 [[Engel1977 - The need for a New Medical Model A Challenge for Biomedicine]]
-
 
 Psychiatric diagnoses are not separated by natural boundaries and the pathophysiology is not well understood, thus they are not diseases in the strict sense. However, psychiatric diagnoses are still useful in everyday clinical practice because they hold information about symptoms and treatment response [@jablensky2016] : [[Jablensky2016 - Psychiatric classifications, validity and utility]]
 

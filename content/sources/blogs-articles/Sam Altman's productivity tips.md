@@ -1,15 +1,11 @@
 ---
 created: 2022-09-07
-updated: 2023-08-31
+updated: 2023-09-21
+tags:
+  - articles
+author: Sam Altman
+source: https://blog.samaltman.com/productivity
 ---
-# Sam Altman's productivity tips
-* Type: #blog
-* Year read: #read2021
-* Subject: [[Productivity]]
-* Bibtex: Sam Altman
-* Bibliography: https://blog.samaltman.com/productivity
----
-
 # Key takeaways
 * Small productivity gains implemented every day can generate [[Compound growth]]
 * Pick the right thing to work on, ask yourself [[The Hamming question]]

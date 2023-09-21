@@ -1,6 +1,6 @@
 ---
 created: 2022-07-01
-updated: 2023-09-01
+updated: 2023-09-21
 tags:
   - writing/blog
 draft: 
@@ -23,7 +23,7 @@ Perhaps the most challenging transition is that I am now in a stage where it is 
 - What have been the most important developments in the field? Why are they important?  
 - What were the promising ideas that didn't pan out? Why?  
 
-A second step is reflecting deeply about the problems I am working on, and to try to work on important problems. Important problems tend to be at the center of an issue with widespread implications. Identifying the most important problems in my field, and then reflecting on what approaches might be useful will be key. Working on problems where I have a reasonable approach is likely more fruitful than going straight to another problem that might be intractable.
+A second step is reflecting deeply about the problems I am working on, and to try to work on important problems. [[Working on the right question means aiming at the core of a problem]].  Identifying the most important problems in my field, and then reflecting on what approaches might be useful will be key. Working on problems where I have a reasonable approach is likely more fruitful than going straight to another problem that might be intractable.
 
 I also want to cultivate my ability to generate and express novel ideas. Combining input from various sources, and reading papers from fields outside my own, will help here since creativity often means taking existing ingredients and re-mixing them in novel ways.
 

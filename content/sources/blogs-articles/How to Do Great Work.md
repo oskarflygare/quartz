@@ -1,16 +1,13 @@
 ---
 created: 2023-07-07
-updated: 2023-08-31
+updated: 2023-09-21
+author: Paul Graham
+tags:
+  - articles
+source: http://www.paulgraham.com/greatwork.html
 ---
-# How to Do Great Work
-
-## Metadata
-- Author: Paul Graham
-- Full Title: How to Do Great Work
-- Category: #articles
-- Date read: 2023-07-07
-- URL: http://www.paulgraham.com/greatwork.html
 # Key takeaways
+
 - [[By continuously working on your own projects, you create things and take accountability rather than passively consuming content]]
 - [[You can increase the surface area for luck by cultivating your curiosity]]
 - [[One sign that you are well suited for a role is that you enjoy the processes involved]]

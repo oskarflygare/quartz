@@ -1,9 +1,10 @@
 ---
-created: 2022-09-07
-updated: 2023-09-01
+created: 2018-02-15
+updated: 2023-09-21
+tags:
+  - article
+  - read2018
 ---
-* Type: #article
-* Year read: #read2018
 * Bibtex: @kendler2016
 * Bibliography: Kendler, K. S. The nature of psychiatric disorders. World Psychiatry 15, 5–12 (2016).
 ---
