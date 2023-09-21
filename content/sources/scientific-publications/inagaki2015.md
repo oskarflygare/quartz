@@ -1,15 +1,12 @@
 ---
-alias:
-  - Interventions to prevent repeat suicidal behavior in patients admitted to an
-    emergency department for a suicide attempt
+aliases:
+  - Interventions to prevent repeat suicidal behavior in patients admitted to an emergency department for a suicide attempt
 created: 2023-04-13
-updated: 2023-08-31
+updated: 2023-09-21
+tags:
+  - article
 ---
 
-# Interventions to prevent repeat suicidal behavior in patients admitted to an emergency department for a suicide attempt: A meta-analysis
-
-- Type : #article 
-- Date read: 2023-04-13
 - Bibtex: @inagaki2015
 - Bibliography: Inagaki, M., Kawashima, Y., Kawanishi, C., Yonemoto, N., Sugimoto, T., Furuno, T., Ikeshita, K., Eto, N., Tachikawa, H., Shiraishi, Y., & Yamada, M. (2015). Interventions to prevent repeat suicidal behavior in patients admitted to an emergency department for a suicide attempt: A meta-analysis. _Journal of Affective Disorders_, _175_, 66–78. [https://doi.org/10.1016/j.jad.2014.12.048](https://doi.org/10.1016/j.jad.2014.12.048)
 

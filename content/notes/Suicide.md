@@ -1,6 +1,6 @@
 ---
 created: 2023-01-10
-updated: 2023-09-18
+updated: 2023-09-21
 tags:
   - MOC
 ---
@@ -61,6 +61,7 @@ tags:
 ## EMA findings
 - [[Suicidal ideation tends to be episodic, with quick onset and short duration]]
 - [[Suicidal ideation varies dramatically even during short time-spans]]
+	- [[Incorporating the dynamic short-term changes in suicidal ideation and intent improved prediciton of post-discharge suicide attempts]] - [[wang2021]]
 	- [[Increased autocorrelation in suicidal ideation measures was an early warning sign for one individual in a proof-of-concept study]]
 - [[The mean level and variability of suicidal ideation identified subgroups of individuals with a previous suicide attempt]]
 	- [[Individuals with multiple suicide attempts have a tendency to 'get stuck' in states of more intense suicide ideation, whereas individuals with no or one attempt stabilize at a state of low risk]] (not EMA but weekly CBT session ratings)

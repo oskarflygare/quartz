@@ -1,12 +1,9 @@
 ---
 created: 2023-03-08
-updated: 2023-08-31
+updated: 2023-09-21
+tags:
+  - article
 ---
-# Doupnik2020 - Association of Suicide Prevention Interventions With Subsequent Suicide Attempts, Linkage to Follow-up Care, and Depression Symptoms for Acute Care Settings
-
-* Type: #article
-* Date read: 2023-03-08
-* Subject: [[Suicide]]
 * Bibtex: @doupnik2020
 * Bibliography: Doupnik, S. K., Rudd, B., Schmutte, T., Worsley, D., Bowden, C. F., McCarthy, E., Eggan, E., Bridge, J. A., & Marcus, S. C. (2020). Association of Suicide Prevention Interventions With Subsequent Suicide Attempts, Linkage to Follow-up Care, and Depression Symptoms for Acute Care Settings: A Systematic Review and Meta-analysis. _JAMA Psychiatry_, _77_(10), 1021. [https://doi.org/10.1001/jamapsychiatry.2020.1586](https://doi.org/10.1001/jamapsychiatry.2020.1586)
 

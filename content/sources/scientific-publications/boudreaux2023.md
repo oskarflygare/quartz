@@ -1,15 +1,12 @@
 ---
-alias:
-  - Effect of an Emergency Department Process Improvement Package on Suicide
-    Prevention
+aliases:
+  - Effect of an Emergency Department Process Improvement Package on Suicide Prevention
 created: 2023-07-07
-updated: 2023-08-31
+updated: 2023-09-21
+tags:
+  - article
 ---
 
-# Effect of an Emergency Department Process Improvement Package on Suicide Prevention: The ED-SAFE 2 Cluster Randomized Clinical Trial
-
-- Type : #article 
-- Date read: 2023-07-07
 - Bibtex: @boudreaux2023
 - Bibliography: Boudreaux, E. D., Larkin, C., Vallejo Sefair, A., Ma, Y., Li, Y. F., Ibrahim, A. F., Zeger, W., Brown, G. K., Pelletier, L., Miller, I., & ED-SAFE 2 Investigators. (2023). Effect of an Emergency Department Process Improvement Package on Suicide Prevention: The ED-SAFE 2 Cluster Randomized Clinical Trial. _JAMA Psychiatry_, _80_(7), 665–674. [https://doi.org/10.1001/jamapsychiatry.2023.1304](https://doi.org/10.1001/jamapsychiatry.2023.1304)
 
