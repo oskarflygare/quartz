@@ -1,13 +1,11 @@
 ---
-alias:
+aliases:
   - Rapid intensification of suicide risk preceding suicidal behavior among primary care patients
 created: 2023-04-04
-updated: 2023-09-01
+updated: 2023-09-22
+tags:
+  - article
 ---
-# Rapid intensification of suicide risk preceding suicidal behavior among primary care patients
-
-- Type : #article 
-- Date read: 2023-04-04
 - Bibtex: @bryan2023
 - Bibliography: Bryan, C. J., Allen, M. H., Wastler, H. M., Bryan, A. O., Baker, J. C., May, A. M., & Thomsen, C. J. (2023). Rapid intensification of suicide risk preceding suicidal behavior among primary care patients. _Suicide and Life-Threatening Behavior_, _n/a_(n/a). [https://doi.org/10.1111/sltb.12948](https://doi.org/10.1111/sltb.12948)
 

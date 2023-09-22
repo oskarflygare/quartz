@@ -1,14 +1,12 @@
 ---
-alias:
+aliases:
   - The psychology of suicidal behaviour
 created: 2023-04-11
-updated: 2023-08-31
+updated: 2023-09-22
+tags:
+  - article
 ---
 
-# The psychology of suicidal behaviour
-
-- Type : #article 
-- Date read: 2023-04-11
 - Bibtex: @oconnor2014
 - Bibliography: O’Connor, R. C., & Nock, M. K. (2014). The psychology of suicidal behaviour. _The Lancet Psychiatry_, _1_(1), 73–85. [https://doi.org/10.1016/S2215-0366(14)70222-6](https://doi.org/10.1016/S2215-0366(14)70222-6)
 

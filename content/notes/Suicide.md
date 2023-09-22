@@ -1,6 +1,6 @@
 ---
 created: 2023-01-10
-updated: 2023-09-21
+updated: 2023-09-22
 tags:
   - MOC
 ---
@@ -20,10 +20,11 @@ tags:
 	- [[20% of youth have experienced suicidal ideation, and 7% have made a suicide attempt]]
 - [[It is unclear if the recent decrease in suicide mortality is due to suicide prevention activities or general improvements in population health]]
 - [[Mental illness is present in half of individuals who die by suicide]]
+	- [[An association between regional rates of bipolar diagnosis and suicide deaths in young males suggest that improved bipolar care for youth may reduce suicide mortality]]
 	- [[Patients recently discharged from psychiatric facilities have almost 200 times increased risk of suicide compared to the global rate]]
 		- [[Negative aspects of in-patient psychiatric care might be involved in causing some suicides]]
-	- [[Patients that are referred to–but do not attend–psychiatric services after deliberate self-harm are at an increased risk of death by suicide]]
-	- [[An association between regional rates of bipolar diagnosis and suicide deaths in young males suggest that improved bipolar care for youth may reduce suicide mortality]]
+- [[Patients that are referred to–but do not attend–psychiatric services after deliberate self-harm are at an increased risk of death by suicide]]
+- [[Individuals who self-harm with fluctuating suicidal intent are at higher risk of subsequent suicide attempts]]
 - [[There are approximately 20 suicide attempts for every death by suicide]]
 - [[The life expectancy of self-harming individuals is reduced by 25 years]]
 - [[Individuals who self-harm have 3.6 times increased all-cause mortality]]
@@ -72,9 +73,7 @@ tags:
 # Assessment
 - Meta-analysis by Runeson in 2017: [[runeson2017|Instruments for the assessment of suicide risk]]
 	- [[Commonly used instruments in suicide risk do not have adequate sensitivity and specificity]]
-- But the PHQ-9 looks decent: [[The PHQ-9 item on suicidality is predictive of suicide attempt or death]]
-	- From [[simon2013]]
-
+- But the PHQ-9 looks decent: [[The PHQ-9 item on suicidality is predictive of suicide attempt or death]] - [[simon2013]]
 # Treatment
 - Fox 2020 review, some pessimistic findings:
 	- [[Intervention efficacy for suicidal thoughts and behaviors has not improved over the last 50 years]]

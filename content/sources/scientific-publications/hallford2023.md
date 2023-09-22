@@ -1,14 +1,13 @@
 ---
-alias:
+aliases:
   - Disclosure of suicidal ideation and behaviours
 created: 2023-04-03
-updated: 2023-08-31
+updated: 2023-09-22
+tags:
+  - article
+  - read2023
 ---
 
-# Disclosure of suicidal ideation and behaviours: A systematic review and meta-analysis of prevalence
-
-- Type : #article 
-- Date read: 2023-04-03
 - Bibtex: @hallford2023
 - Bibliography: Hallford, D. J., Rusanov, D., Winestone, B., Kaplan, R., Fuller-Tyszkiewicz, M., & Melvin, G. (2023). Disclosure of suicidal ideation and behaviours: A systematic review and meta-analysis of prevalence. _Clinical Psychology Review_, _101_, 102272. [https://doi.org/10.1016/j.cpr.2023.102272](https://doi.org/10.1016/j.cpr.2023.102272)
 
