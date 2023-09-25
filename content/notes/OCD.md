@@ -4,7 +4,7 @@ aliases:
   - obsessive-compulsive disorder
   - obsessive compulsive disorder
 created: 2022-09-07
-updated: 2023-09-18
+updated: 2023-09-25
 tags:
   - MOC
 ---
@@ -125,6 +125,8 @@ Retrospective studies with potential recall bias, the role of stress and stressf
 ## Network theory
 
 [[Olatunji2019 - What is at the core of OCD, A network analysis of selected obsessive-compulsive symptoms and beliefs]]
+
+[[Responders and non-responders to intensive ERP differed in their response to emotional distress]]
 
 ## Computational model
 - A bayesian analysis of compulsions that aims to connect the habit theory and harm reduction models - [[fradkin2023|How computational psychiatry can advance the understanding and treatment of obsessive-compulsive disorder]].
