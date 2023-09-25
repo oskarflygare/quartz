@@ -1,7 +1,7 @@
 ---
 title: Oskar Flygare
 created: 2023-08-30
-updated: 2023-09-04
+updated: 2023-09-25
 ---
 
 Hi, welcome to my website and online collection of notes. You'll find notes on topics related to my research areas along with many other things that tickle my interest. This site is a place to share my work in public and connect to people like you.
@@ -12,7 +12,7 @@ Hi, welcome to my website and online collection of notes. You'll find notes on t
 # About me
 ## Work
 
-I'm a post-doc and licensed psychologist working in the [Bjureberg/Hellner](https://ki.se/cns/johan-bjureberg-och-clara-hellners-forskargrupp?ref=oskarflygare.com) and [Rücklab](https://rucklab.com/?ref=oskarflygare.com) research groups at Karolinska Institutet.
+I'm a post-doc and licensed psychologist working in the [Bjureberg](https://ki.se/cns/johan-bjurebergs-forskargrupp) and [Rücklab](https://rucklab.com/?ref=oskarflygare.com) research groups at Karolinska Institutet.
 
 My research aims to understand [[Suicide]] and self-injury, the psychological mechanisms involved and how to treat those difficulties.
 
