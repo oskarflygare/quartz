@@ -1,6 +1,6 @@
 ---
 created: 2023-01-10
-updated: 2023-09-22
+updated: 2023-09-26
 tags:
   - MOC
 ---
@@ -19,10 +19,11 @@ tags:
 	- [[More than one in 100 deaths globally are the result of suicide]]
 	- [[20% of youth have experienced suicidal ideation, and 7% have made a suicide attempt]]
 - [[It is unclear if the recent decrease in suicide mortality is due to suicide prevention activities or general improvements in population health]]
-- [[Mental illness is present in half of individuals who die by suicide]]
-	- [[An association between regional rates of bipolar diagnosis and suicide deaths in young males suggest that improved bipolar care for youth may reduce suicide mortality]]
-	- [[Patients recently discharged from psychiatric facilities have almost 200 times increased risk of suicide compared to the global rate]]
-		- [[Negative aspects of in-patient psychiatric care might be involved in causing some suicides]]
+- [[Psychological autopsy studies estimate the rate of psychiatric disorders in suicides to be around 90%]], but
+	- [[Epidemiological data suggests mental illness is present in half of individuals who die by suicide]]
+- [[An association between regional rates of bipolar diagnosis and suicide deaths in young males suggest that improved bipolar care for youth may reduce suicide mortality]]
+- [[Patients recently discharged from psychiatric facilities have almost 200 times increased risk of suicide compared to the global rate]]
+	- [[Negative aspects of in-patient psychiatric care might be involved in causing some suicides]]
 - [[Patients that are referred to–but do not attend–psychiatric services after deliberate self-harm are at an increased risk of death by suicide]]
 - [[Individuals who self-harm with fluctuating suicidal intent are at higher risk of subsequent suicide attempts]]
 - [[There are approximately 20 suicide attempts for every death by suicide]]

@@ -1,6 +1,6 @@
 ---
 created: 2023-01-20
-updated: 2023-08-31
+updated: 2023-09-26
 ---
 # Fazel2020 - Suicide
 
@@ -21,7 +21,6 @@ updated: 2023-08-31
 	* Adequacy of treatment for mental disorders
 * Means restriction strategies play an important role: restrictive alcohol policies, detoxification of domestic gas, restrictions of firearms.
 * [[There are approximately 20 suicide attempts for every death by suicide]]
-* [[Mental illness is present in half of individuals who die by suicide]] (ref 24).
 * Five key points:
 	* 1. A person who presents with suicidal thoughts may be at risk for suicide even if there are few overt symptoms of a psychiatric disorder
 	* 2. Suicide risk should be assessed by considering predisposing and precipitating factors, including recent life events
