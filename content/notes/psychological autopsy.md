@@ -10,5 +10,5 @@ One issue is that this methodology often overestimates the rate of psychiatric d
 
 ---
 # References
-* [[cavanagh2003 1|Psychological autopsy studies of suicide]]
+* [[cavanagh2003|Psychological autopsy studies of suicide]]
 * [[Arsenault-Lapierre2004 - Psychiatric diagnoses in 3275 suicides, a meta-analysis]]

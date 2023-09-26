@@ -4,9 +4,9 @@ title: Psychological autopsy studies estimate the rate of psychiatric disorders 
 created: 2023-09-26
 updated: 2023-09-26
 ---
-
+Both Arsenault-Lapierre and Cavanagh are meta-analyses, they find prevalence rates of 85-90%.
 
 ---
 # References
 * [[Arsenault-Lapierre2004 - Psychiatric diagnoses in 3275 suicides, a meta-analysis]]
-* [[cavanagh2003 1|Psychological autopsy studies of suicide]]
+* [[cavanagh2003]]
