@@ -1,6 +1,6 @@
 ---
 created: 2022-01-10
-updated: 2023-09-15
+updated: 2023-10-04
 tags:
   - MOC
 ---
@@ -16,6 +16,7 @@ Books I've read. I rate them on [Goodreads](https://www.goodreads.com/review/lis
 - [[On Writing]], Stephen King
 - [[Detaljerna]], Ia Genberg
 - [[Open Water]], Caleb Azumah Nelson
+- [[Dina händer var fulla av liv]], Suad Ali
 
 # 2022
 - [[Löpa varg]], Kerstin Ekman
