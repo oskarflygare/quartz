@@ -15,8 +15,8 @@ const config: QuartzConfig = {
     theme: {
       typography: {
         header: "Inter",
-        body: "Atkinson Hyperlegible",
-        code: "IBM Plex Mono",
+        body: "Inter",
+        code: "JetBrains Mono",
       },
       colors: {
         lightMode: {
