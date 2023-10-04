@@ -2,7 +2,7 @@
 aliases:
   - Association of Bipolar Disorder Diagnosis With Suicide Mortality Rates in Adolescents in Sweden
 created: 2023-06-21
-updated: 2023-09-12
+updated: 2023-09-26
 tags:
   - article
 ---
