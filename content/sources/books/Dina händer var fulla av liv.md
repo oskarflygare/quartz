@@ -3,8 +3,8 @@ tags:
   - book
   - read2023
 created: 2023-10-04
-updated: 2023-10-04
-author: 
+updated: 2023-10-05
+author: Suad Ali
 title: Dina händer var fulla av liv
 ---
 * Rating: 4/5
