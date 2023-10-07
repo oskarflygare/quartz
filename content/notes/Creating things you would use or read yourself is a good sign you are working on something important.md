@@ -1,7 +1,7 @@
 ---
 aliases: []
 created: 2023-07-10
-updated: 2023-09-21
+updated: 2023-10-07
 ---
 Rather than trying to impress "everyone" or some vague sphere of influential people, do things that you and your friends respect and value. However, [[Be wary of niche competition that produces things that nobody finds valuable]].
 
@@ -12,3 +12,4 @@ Rather than trying to impress "everyone" or some vague sphere of influential peo
 ---
 # References
 * [[How to Do Great Work]]
+* [[Scene Creation Engines and Apprenticeships]]

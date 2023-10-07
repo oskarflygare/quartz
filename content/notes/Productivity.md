@@ -1,7 +1,7 @@
 ---
 aliases: 
 created: 2022-09-07
-updated: 2023-09-20
+updated: 2023-10-07
 tags:
   - MOC
 ---
@@ -16,10 +16,12 @@ tags:
 - [[Marginal gains in many aspects can have a big impact]]
 - [[Compound growth|compound interest]]
 	- [[Emphasize insight and gradual growth instead of ticking big goals off a checklist]]
-- [[Creating things you would use or read yourself is a good sign you are working on something important]] 
+- [[Creating things you would use or read yourself is a good sign you are working on something important]]
+	- [[You will become good at doing the types of work where you enjoy the processes involved]]
 - [[Veil of Ignorance]]
 - [[Productivity strategies are motivating because we realize our time is finite]]
 - [[There is no inherent value in being organized, but it creates space for creativity because it reduces overhead]]
+	- [[Keeping things tidy and clean means taking the work seriously]]
 - [[Don't let money be a detour to achieving other values]]
 - [[Persistent effort will lead you to do work in line with your taste]]
 	- [[Actively developing your taste in your field of work will help you select projects]]

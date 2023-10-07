@@ -1,7 +1,7 @@
 ---
 aliases: 
 created: 2021-10-05
-updated: 2023-09-20
+updated: 2023-10-07
 tags:
   - MOC
 ---
@@ -10,6 +10,7 @@ tags:
 	- [[Concise explanations spread faster because they are easier to read and understand.]]
 - [[When you write about a subject you see your own gaps in knowledge]]
 	- [[Confusion or resistance when writing are not inherently bad, they are part of the process]]
+- [[Excessive use of abbreviations puts a higher cognitive load on readers]]
 
 ## Introductions
 
@@ -21,6 +22,7 @@ tags:
 ## Why write when we can let AI generate text?
 - [[AI-generated content will flood the internet and will drown out any signal in an onslaught of noise]]
 - [[Text-generating AI will highlight all the bullshit things we do when we work on computers]]
+- [[AI writing tools risk being like Google Maps for navigation]]
 
 ## Strategies
 

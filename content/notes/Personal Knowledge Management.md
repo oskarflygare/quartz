@@ -3,7 +3,7 @@ aliases:
   - personal knowledge management
   - PKM
 created: 2022-09-07
-updated: 2023-09-01
+updated: 2023-10-07
 tags:
   - MOC
 ---
@@ -19,6 +19,7 @@ There are few formal PKM systems (but see [[Zettelkasten]]) and most people make
 - [[Design your notes to have value long-term]]
 	- [[Notes can incubate in a PKM and be discovered later]]
 		- BUT [[The bottleneck of creative work is not idea generation but execution]]
+	- [[Tools like a PKM are only valuable if you add things that resonate]]
 	- [[The value of a linked database of notes builds up over time]]
 		- [[Those with a personal knowledge database will be able to tailor AI-tools to fit their needs]]
 - [[If you view your PKM as a garden, you realize maintenance is important]]
