@@ -1,7 +1,7 @@
 ---
 aliases: 
 created: 2022-09-07
-updated: 2023-10-07
+updated: 2023-10-26
 tags:
   - MOC
 ---
@@ -26,6 +26,7 @@ tags:
 - [[Persistent effort will lead you to do work in line with your taste]]
 	- [[Actively developing your taste in your field of work will help you select projects]]
 	- [[Taste, rather than capacity for output, will continue to be valuable when AI is everywhere in our daily lives]]
+	- [[Having taste means paying close attention to the details that makes something of high quality]]
 - [[When procrastination is the root cause, no to-do app will get things done for you.]]
 - [[Work has been infused with beliefs about self-actualization]]
 	- [[One possible source of the political tensions in the US is the overproduction of highly educated individuals with poor job prospects]]
