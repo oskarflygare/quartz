@@ -1,6 +1,6 @@
 ---
 created: 2022-01-10
-updated: 2023-10-05
+updated: 2023-10-26
 tags:
   - MOC
 ---
@@ -18,6 +18,8 @@ Books I've read. I rate them on [Goodreads](https://www.goodreads.com/review/lis
 - [[Open Water]], Caleb Azumah Nelson
 - [[Not that kind of girl]], Lena Dunham
 - [[Dina händer var fulla av liv]], Suad Ali
+- [[Tritonus]], Kjell Westö
+- [[Conversations with friends]], Sally Rooney
 
 # 2022
 - [[Löpa varg]], Kerstin Ekman
