@@ -1,6 +1,6 @@
 ---
 created: 2023-01-10
-updated: 2023-09-26
+updated: 2023-10-27
 tags:
   - MOC
 ---
@@ -23,6 +23,7 @@ tags:
 	- [[Epidemiological data suggests mental illness is present in half of individuals who die by suicide]]
 - [[An association between regional rates of bipolar diagnosis and suicide deaths in young males suggest that improved bipolar care for youth may reduce suicide mortality]]
 - [[Patients recently discharged from psychiatric facilities have almost 200 times increased risk of suicide compared to the global rate]]
+	- [[The 30-day suicide rate was 181 per 10,000 person-years in the first 30 days after discharge from psychiatric inpatient care in Sweden]]
 	- [[Negative aspects of in-patient psychiatric care might be involved in causing some suicides]]
 - [[Patients that are referred to–but do not attend–psychiatric services after deliberate self-harm are at an increased risk of death by suicide]]
 - [[Individuals who self-harm with fluctuating suicidal intent are at higher risk of subsequent suicide attempts]]

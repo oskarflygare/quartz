@@ -1,7 +1,7 @@
 ---
 aliases: []
 created: 2022-11-04
-updated: 2023-09-20
+updated: 2023-10-30
 ---
 #MOC 
 
@@ -28,3 +28,5 @@ updated: 2023-09-20
 	- [[The viral dynamics of social media platforms nudges us to produce and consume junk info]]
 	- [[Artists are reduced to content creators and pressured to produce a constant stream of content]]
 	- [[The low-context structure of social media platforms forces you to take a stance and express your opinions as a way to relate to others]]
+- [[The viral content that circulates on social media is often short lived. If we only consume this type of content we risk losing track of the long-standing things of high value]]
+- 
