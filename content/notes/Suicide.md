@@ -1,6 +1,6 @@
 ---
 created: 2023-01-10
-updated: 2023-10-27
+updated: 2023-11-02
 tags:
   - MOC
 ---
@@ -101,6 +101,18 @@ tags:
 		- [[stanley2012]]
 	- Care coordination (handover to psychiatric care. scheduling appointment with clinic or mobile team)
 	- [[Enhanced screening and safety planning reduced suicide-related events by 30% after visits to emergency departments]]
+
+## Caring Contacts
+- Original study - [[motto1976]], with formal analyses in [[motto2001]]
+	- Yes they show lower rates of suicide in the CC group, but the effect is *very* small. 3.9% vs 4.6% suicide rates in the first five years.
+- Meta-analysis [[skopp2023]]
+	- [[Caring Contacts seems to reduce the rate of suicide attempts at one year follow-up]], RR 0.57
+	- [[The evidence to support reductions in suicide from Caring Contacts is inconclusive]]
+- Inconsistent results in a study on veterans in the US, n = 657 [[comtois2019]]
+- [[The proportion of self-poisoning repetitions in 12 months did not differ between a caring contacts postcard intervention and TAU]], Australian study, n = 772
+	- Main study: [[carter2005]]
+	- 2-year follow-up: [[carter2007]]
+	- 5-year follow-up: [[carter2013]]
 
 ## CBT-SP
 - [[stanley2009]] is the first report with lots of details on the structure. However no efficacy results in there.
