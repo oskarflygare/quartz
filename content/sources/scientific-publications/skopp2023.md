@@ -5,7 +5,7 @@ tags:
   - article
 title: "Caring contacts for suicide prevention: A systematic review and meta-analysis"
 created: 2023-10-31
-updated: 2023-10-31
+updated: 2023-11-03
 ---
 
 ---
@@ -31,7 +31,8 @@ updated: 2023-10-31
 - Five studies report data on death by suicide, the number of events were 1-10 in the groups.
 - Three studies report data on suicide attempt, number of events are 21-55.
 	- RR for suicide attempts at 1 year was 0.57 (0.40 to 0.80).
-- A methodological limitaiton is retrospective self-report, and the authors argue that we should use medical records instead.
+- A methodological limitation is retrospective self-report, and the authors argue that we should use medical records instead.
+- They don't really discuss whether the CC is given to *everyone* after discharge or only those who refuse other treatment. In the original [[motto1976]] study and in the [[hassanian-moghaddam2011]] evaluation in Iran, it was either those who refused treatment or very little TAU. In other studies TAU has included more things. Perhaps this can explain the varying results.
 
 > The intervention entails sending a series of periodic and personalized text-based communications that express interest and concern for the recipient’s well-being without placing any demands for a response or action
 

@@ -1,6 +1,6 @@
 ---
 created: 2023-01-10
-updated: 2023-11-02
+updated: 2023-11-06
 tags:
   - MOC
 ---
@@ -102,17 +102,23 @@ tags:
 	- Care coordination (handover to psychiatric care. scheduling appointment with clinic or mobile team)
 	- [[Enhanced screening and safety planning reduced suicide-related events by 30% after visits to emergency departments]]
 
-## Caring Contacts
+### Caring Contacts
 - Original study - [[motto1976]], with formal analyses in [[motto2001]]
 	- Yes they show lower rates of suicide in the CC group, but the effect is *very* small. 3.9% vs 4.6% suicide rates in the first five years.
 - Meta-analysis [[skopp2023]]
 	- [[Caring Contacts seems to reduce the rate of suicide attempts at one year follow-up]], RR 0.57
 	- [[The evidence to support reductions in suicide from Caring Contacts is inconclusive]]
 - Inconsistent results in a study on veterans in the US, n = 657 [[comtois2019]]
+- Null findings in veterans, n = 1318 [[luxton2020]]
+	- They only recruited about 1/4 of the planned sample, and event rate was lower than expected for suicide. Nevertheless the IRR for suicide was 0.42.
 - [[The proportion of self-poisoning repetitions in 12 months did not differ between a caring contacts postcard intervention and TAU]], Australian study, n = 772
 	- Main study: [[carter2005]]
 	- 2-year follow-up: [[carter2007]]
 	- 5-year follow-up: [[carter2013]]
+- [[The rate of subsequent suicide attempts was reduced in a 12-month postcard intervention in Iran, n = 2300]]. 3% compared to 5% - [[hassanian-moghaddam2011]]
+	- Postcards were sent to everyone with an index self-poisoning and not just the ones without other care. However, TAU often meant no additional care in this context.
+- [[A postcard intervention in New Zealand reduced re-presentation for psychiatric, but not all-cause, emergency visits]] - [[beautrais2010]]
+	- Some weird stopping of recruitment here, way lower sample size than planned.
 
 ## CBT-SP
 - [[stanley2009]] is the first report with lots of details on the structure. However no efficacy results in there.
