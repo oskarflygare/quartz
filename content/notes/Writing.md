@@ -1,7 +1,7 @@
 ---
 aliases: 
 created: 2021-10-05
-updated: 2023-10-07
+updated: 2023-11-08
 tags:
   - MOC
 ---
@@ -33,6 +33,7 @@ tags:
 - [[Use yourself as a proxy when writing. What you find interesting and weird will likely be entertaining to others too.]]
 - [[Good writing has a ruthless focus on one specific purpose]]
 - [[Apply Occam's razor in writing]]
+- [[Structuring an effective Purpose & Aims page]]
 
 ## References
 
