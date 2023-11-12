@@ -1,6 +1,6 @@
 ---
 created: 2022-01-10
-updated: 2023-10-26
+updated: 2023-11-12
 tags:
   - MOC
 ---
@@ -20,6 +20,7 @@ Books I've read. I rate them on [Goodreads](https://www.goodreads.com/review/lis
 - [[Dina händer var fulla av liv]], Suad Ali
 - [[Tritonus]], Kjell Westö
 - [[Conversations with friends]], Sally Rooney
+- [[An Unquiet Mind]], Kay Redfield Jamison
 
 # 2022
 - [[Löpa varg]], Kerstin Ekman

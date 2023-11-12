@@ -1,6 +1,6 @@
 ---
 created: 2021-08-13
-updated: 2023-10-10
+updated: 2023-11-10
 ---
 
 # Want to read: fiction
@@ -14,6 +14,7 @@ https://www.theguardian.com/books/2019/sep/21/best-books-of-the-21st-century
 
 # Want to read: non-fiction
 
+- [ ] Tim Wu - The Attention Merchants
 - [ ] Winifred Gallagher - Rapt [link](https://www.amazon.com/Rapt-Attention-Focused-Winifred-Gallagher/dp/0143116908)
 - [ ] Ros Atkins - The Art of Explanation [link](https://www.hachette.co.uk/titles/ros-atkins/the-art-of-explanation/9781472298447/)
 - [x] Hamming - The Art of Doing Science and Engineering [PDF](http://worrydream.com/refs/Hamming-TheArtOfDoingScienceAndEngineering.pdf) ✅ 2023-09-19
