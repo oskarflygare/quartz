@@ -1,7 +1,7 @@
 ---
 aliases: []
 created: 2022-09-07
-updated: 2023-09-21
+updated: 2023-11-16
 tags:
   - MOC
 ---
@@ -65,3 +65,5 @@ Waszczuk 2017
 [[Caspi2014 - The p Factor -One General Psychopathology Factor in the Structure of Psychiatric Disorders]]
 
 [[Mallard2019 - Not just one p - Multivariate GWAS of psychiatric disorders and their cardinal symptoms reveal two dimensions of cross-cutting genetic liabilities.]]
+
+[[cervin2021a]]

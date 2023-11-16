@@ -1,6 +1,6 @@
 ---
 created: 2023-01-10
-updated: 2023-11-06
+updated: 2023-11-13
 tags:
   - MOC
 ---
@@ -119,6 +119,8 @@ tags:
 	- Postcards were sent to everyone with an index self-poisoning and not just the ones without other care. However, TAU often meant no additional care in this context.
 - [[A postcard intervention in New Zealand reduced re-presentation for psychiatric, but not all-cause, emergency visits]] - [[beautrais2010]]
 	- Some weird stopping of recruitment here, way lower sample size than planned.
+- [[A simulation study found that caring contacts would lead to improved outcomes and reduce costs compared with usual care after visits to the emergency department]] - [[denchev2018]]
+
 
 ## CBT-SP
 - [[stanley2009]] is the first report with lots of details on the structure. However no efficacy results in there.
