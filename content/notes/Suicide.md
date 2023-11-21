@@ -1,6 +1,6 @@
 ---
 created: 2023-01-10
-updated: 2023-11-13
+updated: 2023-11-21
 tags:
   - MOC
 ---
@@ -22,8 +22,12 @@ tags:
 - [[Psychological autopsy studies estimate the rate of psychiatric disorders in suicides to be around 90%]], but
 	- [[Epidemiological data suggests mental illness is present in half of individuals who die by suicide]]
 - [[An association between regional rates of bipolar diagnosis and suicide deaths in young males suggest that improved bipolar care for youth may reduce suicide mortality]]
+- [[The 1-year suicide rate after a suicide attempt is 2.8%]], but [[The 1-year suicide rate after a suicide attempt was 4.4% in a large Swedish study]]
+	- [[The 5-year suicide rate after a suicide attempt it 5.6%]]
+	- [[The 10-year suicide rate after a suicide attempt is 7.4%]]
 - [[Patients recently discharged from psychiatric facilities have almost 200 times increased risk of suicide compared to the global rate]]
 	- [[The 30-day suicide rate was 181 per 10,000 person-years in the first 30 days after discharge from psychiatric inpatient care in Sweden]]
+	- [[The 1-year rate of suicide after a suicide attempt is highest among patients with bipolar disorder, schizophrenia, and depression]]
 	- [[Negative aspects of in-patient psychiatric care might be involved in causing some suicides]]
 - [[Patients that are referred to–but do not attend–psychiatric services after deliberate self-harm are at an increased risk of death by suicide]]
 - [[Individuals who self-harm with fluctuating suicidal intent are at higher risk of subsequent suicide attempts]]
