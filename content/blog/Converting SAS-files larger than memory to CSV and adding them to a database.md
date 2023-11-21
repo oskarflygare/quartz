@@ -93,7 +93,7 @@ print(f"Script execution time: {runtime:.2f} seconds")
 
 This is the script I used for the largest files, 1GB to ~30GB.
 
-What ended up taking most of the time was converting the dask dataframe to pandas and writing it into DuckDB, so that's where I would try to make the code more efficient. Perhaps adjusting the chunk size or adding parallel processing.
+What ended up taking most of the time was converting the dask dataframe to pandas and writing it into DuckDB (lines 45-65), so that's where I would try to make the code more efficient. Perhaps adjusting the chunk size or adding parallel processing.
 
 ```python
 
