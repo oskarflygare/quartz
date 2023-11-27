@@ -1,6 +1,6 @@
 ---
 created: 2022-01-10
-updated: 2023-11-12
+updated: 2023-11-26
 tags:
   - MOC
 ---
@@ -21,6 +21,7 @@ Books I've read. I rate them on [Goodreads](https://www.goodreads.com/review/lis
 - [[Tritonus]], Kjell Westö
 - [[Conversations with friends]], Sally Rooney
 - [[An Unquiet Mind]], Kay Redfield Jamison
+- [[Same as Ever]], Morgan Housel
 
 # 2022
 - [[Löpa varg]], Kerstin Ekman

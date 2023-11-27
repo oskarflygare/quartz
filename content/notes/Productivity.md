@@ -1,7 +1,7 @@
 ---
 aliases: 
 created: 2022-09-07
-updated: 2023-10-26
+updated: 2023-11-26
 tags:
   - MOC
 ---
@@ -60,6 +60,7 @@ tags:
 - [[Discipline can sometimes mean doing less, not just more]]
 	- [[Increasing focus in your work means choosing what not to do]]
 - [[Task selection is more important than trying to stay on top of everything]]
+- [[Every job comes with drawbacks, focus on increasing the ratio of positives instead]] (often by being selective about taking on projects and tasks)
 
 # Cal Newport core ideas
 
