@@ -1,6 +1,6 @@
 ---
 created: 2021-08-13
-updated: 2023-11-13
+updated: 2023-12-11
 ---
 
 # Want to read: fiction
@@ -14,6 +14,7 @@ https://www.theguardian.com/books/2019/sep/21/best-books-of-the-21st-century
 
 # Want to read: non-fiction
 
+- [ ] Mustafa Suleyman - [The Coming Wave](https://www.the-coming-wave.com/)
 - [ ] Daniel Kahneman & Cass Sunstein - [Noise](https://www.amazon.se/-/en/Daniel-Kahneman/dp/0316451401)
 - [ ] Tim Wu - The Attention Merchants
 - [ ] Winifred Gallagher - Rapt [link](https://www.amazon.com/Rapt-Attention-Focused-Winifred-Gallagher/dp/0143116908)

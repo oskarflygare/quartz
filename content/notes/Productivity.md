@@ -1,7 +1,7 @@
 ---
 aliases: 
 created: 2022-09-07
-updated: 2023-11-26
+updated: 2023-12-06
 tags:
   - MOC
 ---
@@ -73,3 +73,5 @@ tags:
 [[Slow productivity]]
 
 [[Productive meditation]]
+
+[[Cal Newport essential tools]]

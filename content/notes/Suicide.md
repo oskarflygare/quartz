@@ -1,6 +1,6 @@
 ---
 created: 2023-01-10
-updated: 2023-11-21
+updated: 2023-12-13
 tags:
   - MOC
 ---
@@ -156,6 +156,7 @@ tags:
 	- The same protocol but without mindfulness and more cognitive techniques instead. n = 724 and between-group *d* = 0.34 [[dejaegere2019]]
 - Reframe-IT, ICBT for youth with suicidal ideation. n = 50, no significant between-group effects, 50% dropout at 3-month follow-up [[hetrick2017]]
 - ICBT for depression, no additional effects on SI beyond helpline. [[Christensen2013 - The effect of a web-based depression intervention on suicide ideation, Secondary outcome from a randomised controlled trial in a helpline]]
+- Qualitative study describing the development of an online intervention with 31(!) modules - [[buscher2023a]]
 
 ## Covid-19
 - No increase in self-harm after COVID-19 infection - [[Erlangsen2023 - Associations between SARS-CoV-2 infection and self-harm, Danish nationwide register-based cohort study]]

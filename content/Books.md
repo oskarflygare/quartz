@@ -1,6 +1,6 @@
 ---
 created: 2022-01-10
-updated: 2023-11-30
+updated: 2023-12-12
 tags:
   - MOC
 ---
@@ -23,6 +23,7 @@ Books I've read. I rate them on [Goodreads](https://www.goodreads.com/review/lis
 - [[An Unquiet Mind]], Kay Redfield Jamison
 - [[Same as Ever]], Morgan Housel
 - [[I denna stilla natt]], Mari Jungstedt
+- [[The Shallows]], Nicholas Carr
 
 # 2022
 - [[Löpa varg]], Kerstin Ekman
