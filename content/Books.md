@@ -1,6 +1,6 @@
 ---
 created: 2022-01-10
-updated: 2023-12-12
+updated: 2023-12-31
 tags:
   - MOC
 ---
@@ -24,6 +24,8 @@ Books I've read. I rate them on [Goodreads](https://www.goodreads.com/review/lis
 - [[Same as Ever]], Morgan Housel
 - [[I denna stilla natt]], Mari Jungstedt
 - [[The Shallows]], Nicholas Carr
+- [[Naturen]], Caroline Ringskog Ferrada-Noli
+- [[The Last Coyote]], Michael Connelly
 
 # 2022
 - [[Löpa varg]], Kerstin Ekman
