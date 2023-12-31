@@ -1,7 +1,7 @@
 ---
 aliases: []
 created: 2023-09-01
-updated: 2023-09-15
+updated: 2023-12-27
 tags:
   - MOC
 ---
@@ -20,6 +20,7 @@ More or less structured summary-notes relating to an area I am interested in.
 - [[Personal Knowledge Management]]
 - [[Social media]]
 - [[Productivity]]
+- [[Artificial Intelligence]]
 - [[Open Science]]
 - [[Mental models]]
 - [[Writing]]
